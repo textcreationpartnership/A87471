@@ -1,0 +1,1964 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regales aphorismi or a royal chain of golden sentences, divine, morall, and politicall, as at severall times, and on several occasions they were delivered by King James. Collected by certain reverend and honourable personages attending on his Majesty.</title>
+            <author>James I, King of England, 1566-1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 134 KB of XML-encoded text transcribed from 110 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87471</idno>
+            <idno type="STC">Wing J143</idno>
+            <idno type="STC">Thomason E1408_1</idno>
+            <idno type="STC">ESTC R202612</idno>
+            <idno type="EEBO-CITATION">99862840</idno>
+            <idno type="PROQUEST">99862840</idno>
+            <idno type="VID">115018</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87471)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115018)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 181:E1408[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Regales aphorismi or a royal chain of golden sentences, divine, morall, and politicall, as at severall times, and on several occasions they were delivered by King James. Collected by certain reverend and honourable personages attending on his Majesty.</title>
+                  <author>James I, King of England, 1566-1625.</author>
+                  <author>Stratton, W., editor.</author>
+               </titleStmt>
+               <extent>[12], 204 p. : port. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A. and are to be sold at his house near the upper pump in Grub-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Editor's dedication signed: W. Stratton.</note>
+                  <note>Annotation on Thomason copy: July 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  I, --  King of England, 1566-1625 --  Quotations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115018:1" rendition="simple:additions"/>
+            <p> 
+               <hi>REGALES APHORISMI:</hi> Or A Royal Chain Of GOLDEN SENTENCES, Divine, Morall, and Politicall, as at ſeverall times, and on ſeveral occaſions they were delivered by King JAMES.</p>
+            <p>
+               <hi>Collected by certain reverend and honour<g ref="char:EOLhyphen"/>able perſonages attending on his Ma<g ref="char:EOLhyphen"/>jeſty.</hi>
+            </p>
+            <p>London Printed by <hi>B. A.</hi> and are to be ſold at his houſe near the Upper-Pump in Grub-ſtreet, 1650.</p>
+         </div>
+         <div type="frontispiece">
+            <p>
+               <figure>
+                  <figDesc>portrait of James I</figDesc>
+                  <lg>
+                     <pb facs="tcp:115018:2"/>
+                     <l> Whem earth nor air, whom neither Tweed nor Thames.</l>
+                     <l>Could circle in: Lo here the ſhade of <hi>James.</hi>
+                     </l>
+                     <l>His brow moſt royall, as his heart moſt plain,</l>
+                     <l>His faith moſt pure his works were Soveraign.</l>
+                     <l>His leiſures cried all factions down, and ſchiſms,</l>
+                     <l>And all his words almoſt were Aphoriſms.</l>
+                  </lg>
+               </figure>
+            </p>
+            <pb facs="tcp:115018:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:115018:3"/>
+            <pb facs="tcp:115018:3"/>
+            <head>To the truly Honou<g ref="char:EOLhyphen"/>rable, and noble mind<g ref="char:EOLhyphen"/>ed, <hi>Thomas Draper,</hi> Eſquire.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O ſpeak of Kings, was heretofore a task of as much difficulty as dan<g ref="char:EOLhyphen"/>ger: but to receive what Kings have written, or what Kings have ſpoke, eſpe<g ref="char:EOLhyphen"/>cially when their words have aimed at a publick end, as the advancement of the peoples happineſſe, or the ſuppreſſing of enormities, is a work not
+<pb facs="tcp:115018:4"/> onely ſafe but honourable; their precepts oftentimes being as powerfull as their examples: for the words of illuſtrious perſonages, do carry with them a ſecret attraction, and leave a deeper impreſſion when the greatneſſe of their perſons is attended with the greatneſſe of their Virtues. Indeed to ſpeak or write well is the common happineſſe of great men, who in the height of an extraordinary fortune, for the moſt part do expreſſe the height of an extraordinary un<g ref="char:EOLhyphen"/>derſtanding. The letters of <hi>Phalaris</hi> are at this day extant, and report him louder for his Valour, Knowledge, and Mag<g ref="char:EOLhyphen"/>nificence,
+<pb facs="tcp:115018:4"/> than <hi>Perillus</hi> Bull could for his cruelty.</p>
+            <p>But I ſhall here preſent you with a nearer, &amp; a more grace<g ref="char:EOLhyphen"/>ful proſpect; The ſelected ſay<g ref="char:EOLhyphen"/>ings of a King, who in the me<g ref="char:EOLhyphen"/>mory of many yet living reign<g ref="char:EOLhyphen"/>ed over this nation. A <hi>Platonick</hi> King, if we may truſt the ap<g ref="char:EOLhyphen"/>probation of the age but im<g ref="char:EOLhyphen"/>mediately before us. A King who by his own books provi<g ref="char:EOLhyphen"/>ded better for the title of a happy memory, than many of his Predeceſſors who left it to the flattery of the times, &amp; the vanity and complement of cu<g ref="char:EOLhyphen"/>ſtome. I ſhall here give you a ſight of what ſayings at ſeveral times did fall but careleſly and
+<pb facs="tcp:115018:5"/> without premeditation from him, which being as ſhort as they are acute, and acute as they are grave, I hope may not unfitly be termed Apho<g ref="char:EOLhyphen"/>riſms: to ſpeak more were to anticipate your underſtanding. I leave therefore the book to your acceptance, whoſe accu<g ref="char:EOLhyphen"/>rate judgement, can examine and advance an Apothegm, and whoſe candor can pardon an errour<g ref="char:punc">▪</g> if perchance in this re<g ref="char:EOLhyphen"/>collection any errour be ſlipt into it by the ſudden unadvi<g ref="char:EOLhyphen"/>ſedneſſe of him who is.</p>
+            <closer>
+               <salute>Sir, </salute>
+               <signed>The moſt hum<g ref="char:EOLhyphen"/>ble of all that ſerve you. W. Stratton.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115018:5"/>
+            <head>An Advertiſement to the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Book hath a pre<g ref="char:EOLhyphen"/>heminence above any other which as yet hath ever been publiſhed in King <hi>James</hi> his name. For though the other books were dictated by him, and ſome paſsed more im<g ref="char:EOLhyphen"/>mediately under his own hand, yet theſe Apothegms proceeded immediately from his own voice; and as the voice is the more im<g ref="char:EOLhyphen"/>mediate
+<pb facs="tcp:115018:6"/> Organ, and more near of kin unto the ſoul than the hand is, ſo this book doth carry a more lively repreſentation, and of it ſelf doth juſtly claim an entertainment ſuitable to thoſe exquiſite indowments which gave breath unto that voice. Here you may obſerve him to breath a new, not in his Parks, either in the height of his pleaſure, or his paſſion, or when the ſeaſon was too moiſt, but in that excellence of understand<g ref="char:EOLhyphen"/>ing with which, for the most part, he was always accompani<g ref="char:EOLhyphen"/>ed: Amongſt other Apothegms obſerve onely this, which as yet hath never been committed to the Preſs, and it is reſerved on
+<pb facs="tcp:115018:6"/> purpoſe to be in this place inſer<g ref="char:EOLhyphen"/>ted, which is, that when his Ma<g ref="char:EOLhyphen"/>jeſty demanded of <hi>Gondomar</hi> what where the conſultations of the deliberate States in <hi>Hol<g ref="char:EOLhyphen"/>land, Gondomar</hi> replied to his Majeſty, that his intelligence did onely repreſent them to be buſie in the overthrowing of the two vast and moſt exorbitant powers of this world. <hi>viz:</hi> The power of the Devil, and the pow<g ref="char:EOLhyphen"/>er of Kings. King <hi>James</hi> made no anſwer at all unto it, but by his ſilence ſeemed not to contro<g ref="char:EOLhyphen"/>vert it, and by his ſmile to al<g ref="char:EOLhyphen"/>low and to owne the Apo<g ref="char:EOLhyphen"/>thegm. For your better ſatis<g ref="char:EOLhyphen"/>faction, I have here given you theſe ſelected ſayings in diſtinct
+<pb facs="tcp:115018:7"/> 
+               <hi>numbers;</hi> you will find <hi>weight</hi> in them, and ſuch a <hi>meaſure</hi> of underſtanding, that I be<g ref="char:EOLhyphen"/>lieve in one piece is no where elſe to be found.</p>
+            <closer>
+               <signed>Yours <hi>W. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="1" facs="tcp:115018:7"/>Royal APOTHEGMS Both <hi>DIVINE</hi> and <hi>MORAL.</hi>
+         </head>
+         <div n="1" type="maxim">
+            <head>1</head>
+            <p>
+               <seg rend="decorInit">H</seg>Eaven is governed by order, and all good Angels there; Nay, hell it ſelf could not wel ſub<g ref="char:EOLhyphen"/>ſiſt without ſome order: and
+<pb n="2" facs="tcp:115018:8"/> the very Devils are are divided into Legions, and have their Captains: how can any ſocie<g ref="char:EOLhyphen"/>tie then upon earth ſubſiſt, without order or degrees?</p>
+         </div>
+         <div n="2" type="maxim">
+            <head>2</head>
+            <p>That no man can tell what part of the meat which he eat<g ref="char:EOLhyphen"/>eth turneth to nutriment, and what to excrement: but it is the Divine power, which appoint<g ref="char:EOLhyphen"/>eth and ordereth the ſame.</p>
+         </div>
+         <div n="3" type="maxim">
+            <head>3</head>
+            <p>That the often mentioning of <hi>Abraham, Iſaac,</hi> and <hi>Iacob</hi> in the Scriptures, is to ſignifie, that we ſhould celebrate the me<g ref="char:EOLhyphen"/>mory of good men above o<g ref="char:EOLhyphen"/>thers, and of all, men above beaſts, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="4" type="maxim">
+            <pb n="3" facs="tcp:115018:8"/>
+            <head>4</head>
+            <p>That it is termed in Scrip<g ref="char:EOLhyphen"/>ture, the God of <hi>Abraham,</hi> &amp;c. ſome infer thereupon, That theſe Fathers are yet living in the fleſh, becauſe it is ſaid, that God is the God of the living, and not of the dead, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="5" type="maxim">
+            <head>5</head>
+            <p>Upon diſcourſe of the ſtrict<g ref="char:EOLhyphen"/>neſs of the Civil Law, touch<g ref="char:EOLhyphen"/>ing the power of womens ac<g ref="char:EOLhyphen"/>cuſations in matter of Baſtar<g ref="char:EOLhyphen"/>dy; His Majeſty made menti<g ref="char:EOLhyphen"/>on of one that himſelf knew, that would not acknowledge to have had any child in her hus<g ref="char:EOLhyphen"/>bands life time: yet after his death above three years, ſhe produced a ſon to inherit her
+<pb n="4" facs="tcp:115018:9"/> dead husbands eſtate, and pro<g ref="char:EOLhyphen"/>ved the ſame to be his, which he never knew, nor owned in his life time: and for her excuſe in concealing the ſame in his life time, ſhe cited his jealouſie, and other dangerous humours in him, for which ſhe durſt not make known that ever ſhe was with child by him. And thi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the uſual cuſtome of ſuch as live at their ſtipends, and keep houſes by their husbands al<g ref="char:EOLhyphen"/>lowance, where their husbands are not themſelves.</p>
+         </div>
+         <div n="6" type="maxim">
+            <head>6</head>
+            <p>That all humane Laws can<g ref="char:EOLhyphen"/>not be perfect, but that ſome muſt reſt in the diſcretion of the Judge, although an innocent
+<pb n="5" facs="tcp:115018:9"/> man do periſh thereby; as his Majeſty further conceived, that a Jury may caſt upon evidence, and a Judge may give a juſt ſentence, and yet the party inno<g ref="char:EOLhyphen"/>cent.</p>
+         </div>
+         <div n="7" type="maxim">
+            <head>7</head>
+            <p>That it were better twenty innocents did ſuffer, than to have all diſhoneſt men go free.</p>
+         </div>
+         <div n="8" type="maxim">
+            <head>8</head>
+            <p>That there is many ways to find out truth beſides evi<g ref="char:EOLhyphen"/>dence of real witneſſe; to wit, the fame and report of the de<g ref="char:EOLhyphen"/>linquent: whereupon, Maſter <hi>Hugh May</hi> replied, and mentio<g ref="char:EOLhyphen"/>ned Maſter <hi>Haddocks</hi> good re<g ref="char:EOLhyphen"/>port and opinion conceived of him in <hi>Oxford,</hi> and yet was
+<pb n="6" facs="tcp:115018:10"/> found at laſt a great offender: whereupon his Majeſty repli<g ref="char:EOLhyphen"/>ed, the caſe was not after his meaning; and thereupon inſiſt<g ref="char:EOLhyphen"/>ed further<g ref="char:punc">▪</g> to exemplifie his offence, confeſſing the ſame to be high and capital in reſpect of God and man (meaning Ma<g ref="char:EOLhyphen"/>ſter <hi>Haddock</hi> who preached in his ſleep,) Firſt that his Majeſty did God and the Country good ſervice in diſcovering that man. Secondly that his practiſe was diabolical, and a new way to ſin that his Majeſty never heard of before. Thirdly, that he did therein practiſe againſt God himſelf, in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he did indea<g ref="char:EOLhyphen"/>vour to make his own inventi<g ref="char:EOLhyphen"/>ons as the Oracle of God, and
+<pb n="7" facs="tcp:115018:10"/> by that means to bind mens conſciences thereunto to be<g ref="char:EOLhyphen"/>leeve. Fourthly, that his Ma<g ref="char:EOLhyphen"/>jeſty diſcovered him by his own papers and notes which were brought unto the King; the which Maſter <hi>Haddock</hi> con<g ref="char:EOLhyphen"/>feſſed to be his own hand-wri<g ref="char:EOLhyphen"/>ting, and the notes of the ſer<g ref="char:EOLhyphen"/>mon which (men ſay) he preached in his ſleep: but for anſwer thereunto, ſaid, he one<g ref="char:EOLhyphen"/>ly noted his Sermons firſt in writing, and ſo in the night dreamt thereof, and of the ſame thing he had penned before: but by this anſwer his Majeſty con<g ref="char:EOLhyphen"/>vinced him upon his own ex<g ref="char:EOLhyphen"/>perience, concerning dreams and viſions in the night; that
+<pb n="8" facs="tcp:115018:11"/> things ſtudied or mentioned in the day time, may be dreamt of in the night, but always irre<g ref="char:EOLhyphen"/>gularly without order, but not as his Sermons were, both good and learned; as in parti<g ref="char:EOLhyphen"/>cular in that very Sermon which he preached before his Majeſty in his ſleep, concerning <hi>Davids</hi> waters, <hi>&amp;c. Pſal.</hi> 69. wherein he treated, firſt, Phyſi<g ref="char:EOLhyphen"/>cally, then Theologically, which is not uſual in dreams ſo to do. Fifthly, that Maſter <hi>Haddocks</hi> ſin, being granted for liberty and good, then would all capi<g ref="char:EOLhyphen"/>tal ſins have been protected and allowed; as Blaſphemy againſt God, Treaſon againſt the King, Slander againſt any man, <hi>&amp;c.</hi>
+               <pb n="9" facs="tcp:115018:11"/> and what not? and at laſt all defended under colour of being aſleep. Sixthly, that in all his Sermons, he had always ſome ſayings in defence or in excuſe of the Puritans.</p>
+         </div>
+         <div n="9" type="maxim">
+            <head>9</head>
+            <p>After the diſcourſe ended concerning Maſter <hi>Haddock,</hi> as aforeſaid; his Majeſty proceed<g ref="char:EOLhyphen"/>ed to mention his great trou<g ref="char:EOLhyphen"/>ble with that Sect in <hi>Scotland,</hi> and could never yet reduce the Miniſters from ſlandering in their Sermons openly; and would tell him the offences of his Servants by name; as if you keep ſuch a one (naming him) God will bleſſe you; but if ſuch a one (naming him alſo)
+<pb n="10" facs="tcp:115018:12"/> you cannot proſper.</p>
+         </div>
+         <div n="10" type="maxim">
+            <head>10</head>
+            <p>That he hath been conſtrained to make anſwer to Preachers in the midſt of their Sermons; who digreſſing from the word of God, have told him openly before his own face, of certain communications wherein he hath not pleaſed their humours, although it had been private<g ref="char:EOLhyphen"/>ly done by me unto them, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="11" type="maxim">
+            <head>11</head>
+            <p>That for twelve years toge<g ref="char:EOLhyphen"/>ther in <hi>Scotland,</hi> he prayed on his knees before every Sermon, that he might hear nothing from the Preacher, which might afterward grieve him: but ſince he came into England his Pray<g ref="char:EOLhyphen"/>er
+<pb n="11" facs="tcp:115018:12"/> hath been to edifie of that which he heard.</p>
+         </div>
+         <div n="12" type="maxim">
+            <head>12</head>
+            <p>The thing onely which with<g ref="char:EOLhyphen"/>out intermiſſion we are bidden to do, is to pray: For as for o<g ref="char:EOLhyphen"/>ther things they have their own time, but Prayer is never out of ſeaſon.</p>
+         </div>
+         <div n="13" type="maxim">
+            <head>13</head>
+            <p>We ſhould not be like the Puritans in our Prayers, who ſpeak to God as to their fel<g ref="char:EOLhyphen"/>lows, and ſit at Chriſts table as with their companions: Let us joyn reverence with the ſweet confidence we have in Gods love.</p>
+         </div>
+         <div n="14" type="maxim">
+            <head>14</head>
+            <p>Bread without the ſtaff of
+<pb n="12" facs="tcp:115018:13"/> bread, which is Gods bleſſing, is no bread; for without this, even although it be in our mouths, we ſhall die for hun<g ref="char:EOLhyphen"/>ger, like the miſerable rich man, that in his grrateſt abun<g ref="char:EOLhyphen"/>dance of all things, died for want.</p>
+         </div>
+         <div n="15" type="maxim">
+            <head>15</head>
+            <p>We pray in in vain God to ſave us from temptation, if at every occaſion we run into it: Like one who voluntarily ſticks in the dirt, and cryes for help from thoſe that paſſe by.</p>
+         </div>
+         <div n="16" type="maxim">
+            <head>16</head>
+            <p>How can we paint Gods face, when <hi>Moſes,</hi> the man that e<g ref="char:EOLhyphen"/>ver was moſt familiar with
+<pb n="13" facs="tcp:115018:13"/> God, never ſaw but his back<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rts?</p>
+         </div>
+         <div n="17" type="maxim">
+            <head>17</head>
+            <p>Put caſe the Croſſe had a vir<g ref="char:EOLhyphen"/>tue of doing miracles, as <hi>Peters</hi> ſhadow had; yet doth it not fol<g ref="char:EOLhyphen"/>low, that it is lawful to worſhip it, which <hi>Peter</hi> would never ac<g ref="char:EOLhyphen"/>cept of.</p>
+         </div>
+         <div n="18" type="maxim">
+            <head>18</head>
+            <p>If the Pope may erre as a man, but not as a Pope, I would know, why the Pope doth not inſtruct or reform the man, or wherefore the man doth not require the Popes inſtructions!</p>
+         </div>
+         <div n="19" type="maxim">
+            <head>19</head>
+            <p>They are fools, who becauſe it is ſaid, Examine your ſelves, and come, will not communi<g ref="char:EOLhyphen"/>cate
+<pb n="14" facs="tcp:115018:14"/> till they be, as they think, perfect; forgetting that Chriſt came into the World, not for the healthfull, but ſick; and that we come unto that Table, to be refreſhed with that ſpi<g ref="char:EOLhyphen"/>ritual food, bringing nothing with us but a purpoſe to a<g ref="char:EOLhyphen"/>mend.</p>
+         </div>
+         <div n="20" type="maxim">
+            <head>20</head>
+            <p>The wiſdome of a King is chiefly ſeen in the election of his Officers, as in places which require a peculiar ſufficiency, not to chuſe them that he affects moſt, but to chuſe every man according to his proper fitneſſe.</p>
+         </div>
+         <div n="21" type="maxim">
+            <head>21</head>
+            <p>Virtue is eaſier than Vice; for the eſſential difference be<g ref="char:EOLhyphen"/>tween
+<pb n="15" facs="tcp:115018:14"/> Vice and Virtue, is Truth and Falſhood; and it is eaſier and leſſe pains to tell truth than a lie: And for Vices of the ſences, Cuſtome is all in all; for to one that hath lived ho<g ref="char:EOLhyphen"/>neſtly, it is as much pain to commit ſin, as for another to abſtain.</p>
+         </div>
+         <div n="22" type="maxim">
+            <head>22</head>
+            <p>It is likely that the people will imitate the King in good; but it is ſure they will follow him in ill.</p>
+         </div>
+         <div n="23" type="maxim">
+            <head>23</head>
+            <p>I have been often deceived, yet will I never leave to truſt; neither ſhall the falſhood of ſome, make me think there is none honeſt.</p>
+         </div>
+         <div n="24" type="maxim">
+            <pb n="16" facs="tcp:115018:15"/>
+            <head>24</head>
+            <p>All that ever writ of Chriſt, ſaid, he was an honeſt man: they had ſo much natural ſight, as to ſee his civil goodneſſe; but they wanted the ſupernatural to perceive his God-head.</p>
+         </div>
+         <div n="25" type="maxim">
+            <head>25</head>
+            <p>The ſame ſentence with di<g ref="char:EOLhyphen"/>vers Relations, may be both Ho<g ref="char:EOLhyphen"/>ly and Diveliſh.</p>
+         </div>
+         <div n="26" type="maxim">
+            <head>26</head>
+            <p>I wonder not ſo much that women paint themſelves, as that when they are painted, men can love them.</p>
+         </div>
+         <div n="27" type="maxim">
+            <head>27</head>
+            <p>Of all the numbers of men that have been ſlain in War, not the tenth part have
+<pb n="17" facs="tcp:115018:15"/> been fighting, but flying.</p>
+         </div>
+         <div n="28" type="maxim">
+            <head>28</head>
+            <p>
+               <hi>Parſons</hi> errs in his Reſolution, in making the difficultie of our Salvation to lie in the hardneſſe to find Gods mercy; when in<g ref="char:EOLhyphen"/>deed it conſiſts onely in the right ſeeking of it: for then the other is ſure.</p>
+         </div>
+         <div n="29" type="maxim">
+            <head>29</head>
+            <p>God hath diſtributed his be<g ref="char:EOLhyphen"/>nefits ſo equally, that there is no Countrey which excelleth not all other in ſome thing; ſo that as it borroweth, ſo it lend<g ref="char:EOLhyphen"/>eth: ſo in men, there is no one excelleth ſo in one thing, but hath need of anothers wit in ſome other: From theſe two proceeds all traſſick and ſo<g ref="char:EOLhyphen"/>ciety.</p>
+         </div>
+         <div n="30" type="maxim">
+            <pb n="18" facs="tcp:115018:16"/>
+            <head>30</head>
+            <p>The Art of Phyſicians is very imperfect; for I doubt not, but for every Diſeaſe there is in Nature a ſeveral Simple, if they could find it out: ſo that their Compounds do rather ſhew their ignorance than their knowledge.</p>
+         </div>
+         <div n="31" type="maxim">
+            <head>31</head>
+            <p>The Devil where he cannot have the whole, ſeeks ever to get one part of the Soul, either the Will, or the Underſtand<g ref="char:EOLhyphen"/>ing, which he may come eaſi<g ref="char:EOLhyphen"/>eſt by: as in Proteſtants the Will, in Papiſts the Underſtand<g ref="char:EOLhyphen"/>ing: A learned Papiſt, and an ignorant, are of two Religions.</p>
+         </div>
+         <div n="32" type="maxim">
+            <pb n="19" facs="tcp:115018:16"/>
+            <head>32</head>
+            <p>The Papiſts Religion, is like <hi>Homers</hi> Illiades of the ſiege of <hi>Troy,</hi> or <hi>Virgils</hi> Aeneads of the beginning of <hi>Rome;</hi> both of them had a foundation of truth, ſo had the Papiſts the Bible: but they have all added ſo much that the firſt truth is almoſt loſt.</p>
+         </div>
+         <div n="33" type="maxim">
+            <head>33</head>
+            <p>Doctor <hi>Baily,</hi> holding confer<g ref="char:EOLhyphen"/>ence with the King touching the Popes arrogancy, alluding to Chriſts anſwer to his Apoſtles, <hi>He that deſireth to bear rule, let him be the leaſt among you;</hi> and therefore the Pope doth ſome<g ref="char:EOLhyphen"/>times colourably term himſelf, <hi>Servum Servorum,</hi> &amp;c. To
+<pb n="20" facs="tcp:115018:17"/> which the King replies, that by ſuch argument or inference, he could prove the Pope to be humbly minded; to which the Doctor anſwered, that he did not always ſo account him<g ref="char:EOLhyphen"/>ſelf, ſave onely when he had purpoſe to delude or deceive; otherwiſe he eſteemed himſelf <hi>Dominus Dominantium,</hi> &amp;c. His Majeſties determination on the point, was, that the Popes cal<g ref="char:EOLhyphen"/>ling himſelf <hi>Servus Servorum,</hi> &amp;c. was rather in a more ſtrict and peculiar ſence, as that he was <hi>Servus Petri,</hi> &amp;c. <hi>ſive Ma<g ref="char:EOLhyphen"/>riae Virginis,</hi> &amp;c. and ſo by con<g ref="char:EOLhyphen"/>ſequence, <hi>Servum Servorum Dei,</hi> &amp;c. towards all other <hi>Do<g ref="char:EOLhyphen"/>minum Dominantium,</hi> &amp;c. So
+<pb n="21" facs="tcp:115018:17"/> likewiſe to be a profeſſed Ca<g ref="char:EOLhyphen"/>tholick, is to be a Chriſtian; but to be a Roman Catholick, is it which marreth the matter. It was the reproof of the <hi>Dona<g ref="char:EOLhyphen"/>tiſts,</hi> which were accounted Catholicks, but confined their profeſſion into one corner of, <hi>Affrica.</hi> So alſo the <hi>Romaniſts,</hi> whereas the true Catholick is univerſal.</p>
+         </div>
+         <div n="34" type="maxim">
+            <head>34</head>
+            <p>That whereas our Saviour ſaith, <hi>It is as eaſie for a Camel to paſſe through the eye of a nee<g ref="char:EOLhyphen"/>dle, as for a rich man to enter into the Kingdome of Heaven,</hi> &amp;c. The Pope perverteth that ſaying; for that none ſhall have no Pardons but ſuch as pay for
+<pb n="22" facs="tcp:115018:18"/> them; ſo conſequently, the rich are more eaſie to enter into Heaven than the poor, becauſe the one can have pardon when he will, but the other is not able to purchaſe it: and thereupon his Majeſty con<g ref="char:EOLhyphen"/>cluded the Pope to be juſtly called a Merchant of mens ſouls, as it is ſet forth in <hi>Re<g ref="char:EOLhyphen"/>vel.</hi> 18. <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="35" type="maxim">
+            <head>35</head>
+            <p>That it is a Maxime in the Romiſh Religion, declared by moſt of their own writers. That the Pope may, if he will, at one Maſſe, free all the ſouls out of Purgatory. His Majeſties inference on this poſition, was, with abnegation of the Popes
+<pb n="23" facs="tcp:115018:18"/> Charity, and admiration of his unparalel'd cruelty, that being granted to have power ſo to do, doth not, nor may not apply his will unto it. If it were poſſible for one man to free all the world from hell, ought he not to do it? <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="36" type="maxim">
+            <head>36</head>
+            <p>God never fails of his Word, but where he threateneth ill to man, as in puniſhing <hi>Ninivie;</hi> but always performs where he promiſeth good, that, or better, as he promiſed to <hi>Abraham</hi> and his ſeed, everlaſting earthly bleſſedneſſe, and inſtead of that gave them heavenly.</p>
+         </div>
+         <div n="37" type="maxim">
+            <pb n="24" facs="tcp:115018:19"/>
+            <head>37</head>
+            <p>Not onely the Deliverance of the Jews, till they came to the land of Promiſe, but even their daily Preſervation was mi<g ref="char:EOLhyphen"/>raculous: for there was never any noted plague in <hi>Ieruſalem,</hi> though it ſtood in a hot Climat, which had it been, would have endangered the whole Nation, it being to aſſemble thither twiſe every year of neceſſity.</p>
+         </div>
+         <div n="38" type="maxim">
+            <head>38</head>
+            <p>Men are often in arguing, car<g ref="char:EOLhyphen"/>ried by the force of words fur<g ref="char:EOLhyphen"/>ther aſunder than their queſtion was at firſt, like two ſhips going out of the ſame Haven, their journies end is many times whole Countreys diſtant.</p>
+         </div>
+         <div n="39" type="maxim">
+            <pb n="25" facs="tcp:115018:19"/>
+            <head>39</head>
+            <p>Cowardize is the mother of Cruelty; It was onely Fear that made Tyrants put ſo many to death, to ſecure themſelves.</p>
+         </div>
+         <div n="40" type="maxim">
+            <head>40</head>
+            <p>That faſhion among the Ro<g ref="char:EOLhyphen"/>mans of killing themſelves, was falſly called Fortitude; for, it was onely to prevent the power of Fortune; when in<g ref="char:EOLhyphen"/>deed, Virtue lies within quite out of her reach. Nor can any man be overcome but of him<g ref="char:EOLhyphen"/>ſelf; and ſo moſt truly were they, when they fled to Death for a refuge againſt Death.</p>
+         </div>
+         <div n="41" type="maxim">
+            <head>41</head>
+            <p>It is eaſier to reclaim a man from any Hereſie, than to con<g ref="char:EOLhyphen"/>vert
+<pb n="26" facs="tcp:115018:20"/> an Atheiſt to the Truth: For to believe, is the firſt de<g ref="char:EOLhyphen"/>gree common to all Religions: and an Atheiſt is to be brought ſo far, before he come to chu<g ref="char:EOLhyphen"/>ſing.</p>
+         </div>
+         <div n="42" type="maxim">
+            <head>42</head>
+            <p>All Gods miracles are above Nature, but never againſt Na<g ref="char:EOLhyphen"/>ture; for that were to deſtroy his own work, which he can<g ref="char:EOLhyphen"/>not do; but he may excel it: Therefore the miracle of the Papiſts Tranſubſtantiation be<g ref="char:EOLhyphen"/>ing againſt Nature, is falſe.</p>
+         </div>
+         <div n="43" type="maxim">
+            <head>43</head>
+            <p>Types are the Images of the mind, which God allowed the Jews to keep them from Ima<g ref="char:EOLhyphen"/>ges of the ſence, and to ſhew them, that his worſhip was to
+<pb n="27" facs="tcp:115018:20"/> be in Spirit and Truth.</p>
+         </div>
+         <div n="44" type="maxim">
+            <head>44</head>
+            <p>The Church at <hi>Rome,</hi> fell at firſt from her purity into in<g ref="char:EOLhyphen"/>firmities, then into corruptions, then into errours; and laſtly, into abominations: God ſtill puniſhing ſin with ſin.</p>
+         </div>
+         <div n="45" type="maxim">
+            <head>45</head>
+            <p>Moſt Hereſies have proceed<g ref="char:EOLhyphen"/>ed from mingling Philoſophy with Religion; from that and Policy, have all the Papiſts er<g ref="char:EOLhyphen"/>rours riſen: when Chriſt tels them, that fleſh and bloud can<g ref="char:EOLhyphen"/>not inherit the Kingdome of Heaven.</p>
+         </div>
+         <div n="46" type="maxim">
+            <head>46</head>
+            <p>We cannot conceive Eter<g ref="char:EOLhyphen"/>nity, but by Faith; we cannot
+<pb n="28" facs="tcp:115018:21"/> underſtand what God is, and of that ignorance comes all ſin; for ſurely if we knew him, we would not offend him.</p>
+         </div>
+         <div n="47" type="maxim">
+            <head>47</head>
+            <p>Men as often fall out about ſmall things; as great, becauſe after the firſt contradiction, they maintain themſelves, not the thing.</p>
+         </div>
+         <div n="48" type="maxim">
+            <head>48</head>
+            <p>Before Chriſt came, it was enough for the Fathers to be<g ref="char:EOLhyphen"/>leeve onely; ſince, they muſt beleeve and underſtand both.</p>
+         </div>
+         <div n="49" type="maxim">
+            <head>49</head>
+            <p>Thoſe Princes which ſeek to ſecure themſelves by bloud, ſhall find, that the more they kill, the more they have need to kill.</p>
+         </div>
+         <div n="50" type="maxim">
+            <pb n="29" facs="tcp:115018:21"/>
+            <head>50</head>
+            <p>The Church is to be belee<g ref="char:EOLhyphen"/>ved in the interpretation of the Scripture, but not directly a<g ref="char:EOLhyphen"/>gainſt it; for when it differs from that, it is no longer the Church.</p>
+         </div>
+         <div n="51" type="maxim">
+            <head>51</head>
+            <p>There are three kind of Wiſ<g ref="char:EOLhyphen"/>doms that uſe to be in Kings, A ſanctified Wiſdom, A Wiſ<g ref="char:EOLhyphen"/>dom which oftentimes ſtrains it ſelf to a leſſe evil, ſo to a<g ref="char:EOLhyphen"/>void a greater; And a Wiſ<g ref="char:EOLhyphen"/>dom of falſhood: the firſt is both lawfull and neceſſary; the ſecond is lawfull, but not ne<g ref="char:EOLhyphen"/>ceſſary; the third, neither.</p>
+         </div>
+         <div n="52" type="maxim">
+            <head>52</head>
+            <p>All Governments howſoever
+<pb n="30" facs="tcp:115018:22"/> in their Conſtitutions, in their practiſe tend to a Monarchy; And whereſoever the better ſort of the people bear rule, there is always ſome one that reſembleth a King amongſt them: yea, though in the State of <hi>Venice,</hi> the Duke is but as it were a dead name; yet were it impoſſible that their Com<g ref="char:EOLhyphen"/>mon-wealth ſhould long up<g ref="char:EOLhyphen"/>hold it ſelf without him.</p>
+         </div>
+         <div n="53" type="maxim">
+            <head>53</head>
+            <p>That a Monarchical Govern<g ref="char:EOLhyphen"/>ment by ſecular Kings and Prieſts, is the onely Ordinance of God; and the Republicks but onely a depraved inſtituti<g ref="char:EOLhyphen"/>on of man for depraved ends, as appeareth manifeſtly by the
+<pb n="31" facs="tcp:115018:22"/> whole current of Scripture, e<g ref="char:EOLhyphen"/>ven from <hi>Adam</hi> to the primi<g ref="char:EOLhyphen"/>tive Church after Chriſt, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="54" type="maxim">
+            <head>54</head>
+            <p>That God in his wiſdom ap<g ref="char:EOLhyphen"/>proved no fitter nor ſafer means to rule his people, but by ſuch an inſtitution.</p>
+         </div>
+         <div n="55" type="maxim">
+            <head>55</head>
+            <p>That from the beginning, there was inſtituted heads over every Family, over the good &amp; bad, as <hi>Seth</hi> &amp; his poſterity, <hi>Cain, Lamech,</hi> even to the De<g ref="char:EOLhyphen"/>luge: after that the 12 Patriarks were as ſecular Princes, as free as I am here, and more too; for they had <hi>potestatem vitae &amp; necis</hi> in themſelves without any Jury; after them the Judg<g ref="char:EOLhyphen"/>es,
+<pb n="32" facs="tcp:115018:23"/> and ſo abſolute Kings, with a promiſe that the Scepter ſhould not depart, <hi>&amp;c.</hi> And ſo after Chriſt to this very day. Beſides, among heathen and ſavages by natural inſtinct they ordained Kings and Prin<g ref="char:EOLhyphen"/>ces. Among beaſts they have a King, and ſo among birds; the Deer hath his M<hi rend="sup">r.</hi> of a herd; the ſmalleſt creatures have their chief: What ſhall I ſay then to ſuch as will have no con<g ref="char:EOLhyphen"/>cordance with God, with men, with beaſts, inferiour Crea<g ref="char:EOLhyphen"/>tures, with devils, nor any, but with themſelves? and are all for a Republick, in all which I have ſaid, there is no mention made of a Republick, as if it
+<pb n="33" facs="tcp:115018:23"/> were a ſtrange thing to God himſelf.</p>
+         </div>
+         <div n="56" type="maxim">
+            <head>56</head>
+            <p>That his Majeſty did think, many here in <hi>England,</hi> did wiſh their eſtates were lying by <hi>Amsterdam;</hi> which thing the King did alſo wiſh to ſuch.</p>
+         </div>
+         <div n="57" type="maxim">
+            <head>57</head>
+            <p>That in <hi>Venice,</hi> which is go<g ref="char:EOLhyphen"/>verned by a Republick, they do create no honours, or dignities, but a Merchant of <hi>Venice,</hi> which is ſeldom, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="58" type="maxim">
+            <head>58</head>
+            <p>That the Mothers and Nur<g ref="char:EOLhyphen"/>ſes do call their children in re<g ref="char:EOLhyphen"/>proach, Barons, which is with us a ſtile of honour, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="59" type="maxim">
+            <head>59</head>
+            <p>That the Pope doth create
+<pb n="34" facs="tcp:115018:24"/> Knights as a ſecular Prince.</p>
+         </div>
+         <div n="60" type="maxim">
+            <head>60</head>
+            <p>That the honour conferred upon any Centurion abroad, is there with no eſteem; but the King hath made many Knights of them here.</p>
+         </div>
+         <div n="61" type="maxim">
+            <head>61</head>
+            <p>That no juriſdiction elective, as Emperours, Kings, Princes, <hi>&amp;c.</hi> is any honour or prece<g ref="char:EOLhyphen"/>dency to any of the allies of him elected, but perſonal to himſelf.</p>
+         </div>
+         <div n="62" type="maxim">
+            <head>62</head>
+            <p>That to have imployment in any Republick, in that ſtate is dangerous; for do he well or ill, he is ſure to rue it, and he ſpeedeth beſt that doth worſt;
+<pb n="35" facs="tcp:115018:24"/> like a Scottiſh tale I have heard of, one that never ſped well a<g ref="char:EOLhyphen"/>mong the Lawyers when he had a good cauſe, becauſe he then leaſt ſuſpected it, and the other ſide bribed; but when his cauſe was ill, he then alſo bribed, and countermanded; and ſo the greateſt carried it for the moſt part: even ſo in Republicks.</p>
+         </div>
+         <div n="63" type="maxim">
+            <head>63</head>
+            <p>That the Agent here for the <hi>Venetians,</hi> although he preſent<g ref="char:EOLhyphen"/>ed to the King a letter from their Duke, ſubſcribed with his own hand, with addition of all his titles, and the Kings in<g ref="char:EOLhyphen"/>ſerted; yet at the delivery, no mention made of the Duke
+<pb n="36" facs="tcp:115018:25"/> himſelf, not ſo much as com<g ref="char:EOLhyphen"/>mendations; but Our Republick greets you, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="64" type="maxim">
+            <head>64</head>
+            <p>That the King in his reading, could never yet truly find, what the name of a Cardinal was, and yet he hath ſought much for it, unleſſe it were a Cardo on which the wheel moves, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="65" type="maxim">
+            <head>65</head>
+            <p>That in the primitive Church of <hi>Rome,</hi> they were inferiour to Biſhops, and were but ſeven in number, as Parſons of the ſe<g ref="char:EOLhyphen"/>ven Churches mentioned a<g ref="char:EOLhyphen"/>bout <hi>Rome:</hi> but how they come to place them before Biſhops, and make of them Princes, and
+<pb n="37" facs="tcp:115018:25"/> Potentates, and how they be<g ref="char:EOLhyphen"/>come the Electours of the Pa<g ref="char:EOLhyphen"/>pacy, I cannot get to know.</p>
+         </div>
+         <div n="66" type="maxim">
+            <head>66</head>
+            <p>That it is ſtrange the Pope ſhould create his own makers and electors.</p>
+         </div>
+         <div n="67" type="maxim">
+            <head>67</head>
+            <p>That in attainder and tryal of innocents, wherein is ſcruple the Juſtice of our State pro<g ref="char:EOLhyphen"/>ceeds ſlowly, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="60" type="maxim">
+            <head>60</head>
+            <p>The preſervation of the Bible is miraculous, that it ſhould remain pure, and intire, after it had paſſed the hands of Infi<g ref="char:EOLhyphen"/>dels, which ſought to de<g ref="char:EOLhyphen"/>ſtroy it; of Hereticks, which
+<pb n="38" facs="tcp:115018:26"/> ſought to pervert it to their own advantage.</p>
+         </div>
+         <div n="69" type="maxim">
+            <head>69</head>
+            <p>No indifferent geſture is ſo ſeldome done without ſin as laughing; for it is commonly raiſed upon things to be pitti<g ref="char:EOLhyphen"/>ed; and therefore man only can laugh, and he onely can ſin.</p>
+         </div>
+         <div n="70" type="maxim">
+            <head>70</head>
+            <p>God made one part of man of earth, the baſeſt element, to teach him humility; his ſoul proceeded from the boſome of himſelf, to teach him good<g ref="char:EOLhyphen"/>neſs: So that if he look down<g ref="char:EOLhyphen"/>ward nothing is viler: if he caſt his eyes to heaven, he is of a matter more excellent than the Angels; the former part
+<pb n="39" facs="tcp:115018:26"/> was a tipe of <hi>Adam;</hi> the ſe<g ref="char:EOLhyphen"/>cond of Chriſt, which gives life to that which was dead in it ſelf.</p>
+         </div>
+         <div n="71" type="maxim">
+            <head>71</head>
+            <p>Much money makes a Coun<g ref="char:EOLhyphen"/>try poor, for it ſets a dearer price upon every thing.</p>
+         </div>
+         <div n="72" type="maxim">
+            <head>72</head>
+            <p>At what time the Goſpell did flouriſh, all kind of learn<g ref="char:EOLhyphen"/>ing did even abound, and upon the decay thereof, there came a vail of darkneſſe upon the face of the earth: the reaſon is a part of Religion, but Er<g ref="char:EOLhyphen"/>rour and ſuperſtition is the ſa<g ref="char:EOLhyphen"/>fer by ignorance.</p>
+         </div>
+         <div n="73" type="maxim">
+            <head>73</head>
+            <p>A lie of errour is a fault of
+<pb n="40" facs="tcp:115018:27"/> credulity not of falſehood: but a preſumptuous lie, is that which makes a man, as God made the world of nothing.</p>
+         </div>
+         <div n="74" type="maxim">
+            <head>74</head>
+            <p>All Gods actions are for our good, either ſpiritually or temporally although we can<g ref="char:EOLhyphen"/>not comprehend them at every time.</p>
+         </div>
+         <div n="75" type="maxim">
+            <head>75</head>
+            <p>There is not that thing upon the earth, (that well examined) yields not ſomewhat worthy of knowledge; that divine Ar<g ref="char:EOLhyphen"/>tizan that made them, never faſhioned any thing unprofi<g ref="char:EOLhyphen"/>tably, nor ever ſet forth any of his workman-ſhip without ſome inward virtue.</p>
+         </div>
+         <div n="76" type="maxim">
+            <pb n="41" facs="tcp:115018:27"/>
+            <head>76</head>
+            <p>The gifts of the mind are not eaſily obtained, you muſt practiſe them with great pain and difficulty, and good reaſon, for it were pitty ſuch pre<g ref="char:EOLhyphen"/>tiouſneſſe might be had for the taking.</p>
+         </div>
+         <div n="77" type="maxim">
+            <head>77</head>
+            <p>It muſt needs ſhew the Pa<g ref="char:EOLhyphen"/>piſts religion to be ill, that they would plant it by liberty and War; whereas the true Catholick religion roſe by faſting and prayer.</p>
+         </div>
+         <div n="78" type="maxim">
+            <head>78</head>
+            <p>Whatſoever is ſpent in earthly vanities, they either die before us, or ſhortly fol<g ref="char:EOLhyphen"/>low after us, for all pleaſures
+<pb n="42" facs="tcp:115018:28"/> that are ſenſuall, and have not reference to the main end of mans creation (which is the ſervice of God are vain, and of no importance, but meer foo<g ref="char:EOLhyphen"/>lery.</p>
+         </div>
+         <div n="79" type="maxim">
+            <head>79</head>
+            <p>When God deſtinates a man to do good, he makes every opportunity and occaſion (though it ſeem never ſo harſh in mans eyes) to turn to his good, and Gods glory: but when God leaves man to him<g ref="char:EOLhyphen"/>ſelf, he makes more opportu<g ref="char:EOLhyphen"/>nities than he finds, and with<g ref="char:EOLhyphen"/>out occaſion, takes occaſion to work his own ruine, to his own ſhame.</p>
+         </div>
+         <div n="80" type="maxim">
+            <pb n="43" facs="tcp:115018:28"/>
+            <head>80</head>
+            <p>It is good to propound to man Fame, Greatneſſe, Honour, and Eſtimation, for wading to find theſe, he may happily meet with Honeſty, Temperance, Fortitude, and Patience; and many times they that will not undergo actions for Virtues ſake, will for Ambition.</p>
+         </div>
+         <div n="81" type="maxim">
+            <head>81</head>
+            <p>An ill name may be free from diſhoneſty, but not from ſome folly; we ſhould not onely be free from ſin, but from ſuſpicion; for it is not enough to be well lived, but well reported; and oftentimes weighty matters are as much
+<pb n="44" facs="tcp:115018:29"/> carried by reputation as ſub<g ref="char:EOLhyphen"/>ſtance.</p>
+         </div>
+         <div n="82" type="maxim">
+            <head>82</head>
+            <p>Misfortunes are not accep<g ref="char:EOLhyphen"/>table in any kind, yet thoſe are indured with moſt eaſe, that come rather by deſtiny, than by deſerving.</p>
+         </div>
+         <div n="83" type="maxim">
+            <head>83</head>
+            <p>In experience it is good to be neither pinching nor prodigal, yet if means allow it, rather thought a little profuſe then too ſparing, but the beſt way is, to make ability (which muſt alwayes be meaſured, by the juſt rule of our proper reve<g ref="char:EOLhyphen"/>nue) our compaſs to ſail, and line to walk by; and for extra<g ref="char:EOLhyphen"/>ordinary expences we muſt li<g ref="char:EOLhyphen"/>mit
+<pb n="45" facs="tcp:115018:29"/> them by the worth of the occaſion; for in matters that return not we may be more magnificent.</p>
+         </div>
+         <div n="84" type="maxim">
+            <head>84</head>
+            <p>He is not worthy to com<g ref="char:EOLhyphen"/>mand others that cannot go<g ref="char:EOLhyphen"/>vern his own affections and un<g ref="char:EOLhyphen"/>reaſonable appetites.</p>
+         </div>
+         <div n="85" type="maxim">
+            <head>85</head>
+            <p>No text of Law can be ſo certain; wherein, the cir<g ref="char:EOLhyphen"/>cumſtances will not make a variation.</p>
+         </div>
+         <div n="86" type="maxim">
+            <head>86</head>
+            <p>Juſtice ſhould be blind, and friendleſſe, it is not by it, that thoſe that are in authori<g ref="char:EOLhyphen"/>ty, ſhould reward their friends, or croſſe their enemies.</p>
+         </div>
+         <div n="87" type="maxim">
+            <pb n="46" facs="tcp:115018:30"/>
+            <head>87</head>
+            <p>Though outward Peace be a great bleſſing, yet it is far in<g ref="char:EOLhyphen"/>feriour to peace within, as civil wars are more cruell and un<g ref="char:EOLhyphen"/>naturall than wars abroad.</p>
+         </div>
+         <div n="88" type="maxim">
+            <head>88</head>
+            <p>All Virtues turn to vices, when they become the ſervants of impiety.</p>
+         </div>
+         <div n="89" type="maxim">
+            <head>89</head>
+            <p>All complainers be natural<g ref="char:EOLhyphen"/>ly given to exagerate their own griefs, and multiplies thereupon, as Papiſts do in Eng<g ref="char:EOLhyphen"/>land.</p>
+         </div>
+         <div n="90" type="maxim">
+            <head>90</head>
+            <p>As a thing which is good ought not therefore to be abu<g ref="char:EOLhyphen"/>ſed; ſo ought not the lawful<g ref="char:EOLhyphen"/>neſſe
+<pb n="47" facs="tcp:115018:30"/> of a good thing be for<g ref="char:EOLhyphen"/>born, becauſe of the abuſe thereof.</p>
+         </div>
+         <div n="91" type="maxim">
+            <head>91</head>
+            <p>Every man ought to diſcern wiſely and truly of every Vir<g ref="char:EOLhyphen"/>tue and vice, according to the true qualities thereof, and not according to the vain conceits of men.</p>
+         </div>
+         <div n="92" type="maxim">
+            <head>92</head>
+            <p>Indifferent things if they be neceſſary as; food, ſleep, and ſuch like, in the qualities or form of uſing them, may ſmell of Virtue or Vice, and be great furtherers to any of them.</p>
+         </div>
+         <div n="93" type="maxim">
+            <head>93</head>
+            <p>If our whole life were divi<g ref="char:EOLhyphen"/>ded
+<pb n="48" facs="tcp:115018:31"/> into four parts, three of them would be found to be conſumed on Meat, Drink, Sleep, and unneceſſary imploi<g ref="char:EOLhyphen"/>ments.</p>
+         </div>
+         <div n="94" type="maxim">
+            <head>94</head>
+            <p>There is great difference be<g ref="char:EOLhyphen"/>twixt Juſtice and Equity, for Juſtice by the law giveth eve<g ref="char:EOLhyphen"/>ry man his own, and Equity in things Arbitriall, that which is meeteſt for him.</p>
+         </div>
+         <div n="95" type="maxim">
+            <head>95</head>
+            <p>Drunkenneſs hath a beaſt<g ref="char:EOLhyphen"/>ly Vice, and hath this proper<g ref="char:EOLunhyphen"/>tie, that it is one of thoſe vices which increaſeth with age.</p>
+         </div>
+         <div n="96" type="maxim">
+            <head>96</head>
+            <p>Medicine hath that virtue, that it never leaves a man in
+<pb n="49" facs="tcp:115018:31"/> that ſtate wherein it finds him.</p>
+         </div>
+         <div n="97" type="maxim">
+            <head>97</head>
+            <p>We ſhould preſſe to win God by importunity, if we ob<g ref="char:EOLhyphen"/>tain not at the firſt; and if we be not heard, ſhould think, that that which we ſeek is not for our good.</p>
+         </div>
+         <div n="98" type="maxim">
+            <head>98</head>
+            <p>A ſmall ſin wilfully com<g ref="char:EOLhyphen"/>mitted, is far more grievous before God, than a greater committed in a ſudden paſſion, when conſcience is a ſleep.</p>
+         </div>
+         <div n="99" type="maxim">
+            <head>99</head>
+            <p>That the King vowed never to be of that Religion, where ſo groſſe an opinion as Tran<g ref="char:EOLhyphen"/>ſubſtantiation was, ſo ignorant<g ref="char:EOLhyphen"/>ly maintained, while God
+<pb n="50" facs="tcp:115018:32"/> kept him in his right wits.</p>
+         </div>
+         <div n="100" type="maxim">
+            <head>100</head>
+            <p>To manifeſt the groſſeneſſe of their errour in their opini<g ref="char:EOLhyphen"/>on of Tranſubſtantiation; The King had heard of a Jew, that once ſtabbed the bread or wa<g ref="char:EOLhyphen"/>fer, and ſome affirm there iſ<g ref="char:EOLhyphen"/>ſued our perfect bloud, which among them is ſtil kept, &amp; they permit ſometimes mice and rats to eat it, <hi>&amp;c.</hi> now conſi<g ref="char:EOLhyphen"/>der how diſproportionable a thing is it after conſecration (if it be the very body, as they a<g ref="char:EOLhyphen"/>ver) that they ſhould allow a Jew to crucifie him again, and alſo for mice and rats to eat our Saviour. His Maj. did vehemently inculcate the groſ<g ref="char:EOLhyphen"/>neſſe
+<pb n="51" facs="tcp:115018:32"/> of this errour; and fur<g ref="char:EOLhyphen"/>thermore ſaid, that <hi>Belarmine</hi> was much troubled about this point, whether the bread and wine, although much taken to<g ref="char:EOLhyphen"/>gether, do turn to corporal nu<g ref="char:EOLhyphen"/>triment or not, or tranſubſtan<g ref="char:EOLhyphen"/>tiated as aforeſaid, and then a greater errour followeth.</p>
+         </div>
+         <div n="101" type="maxim">
+            <head>101</head>
+            <p>That it was ſtrange to look into the life of <hi>Hen.</hi> 8. how like an Epicure he lived.</p>
+         </div>
+         <div n="102" type="maxim">
+            <head>102</head>
+            <p>It was once demanded by King <hi>Hen.</hi> 8. of one, what he might do to be ſaved? who who anſwered, he had no cauſe to fear, having lived ſo mighty a King, and done ſo many wor<g ref="char:EOLhyphen"/>thy
+<pb n="52" facs="tcp:115018:33"/> acts in his life time; but oh, ſaid he, I have lived too like a King; which King <hi>Iames</hi> infer<g ref="char:EOLhyphen"/>red was like no King; for the office of a King is to do Juſtice and equity, but he onely ſerved his ſenſuality like a beaſt.</p>
+         </div>
+         <div n="103" type="maxim">
+            <head>103</head>
+            <p>That the Preacher Preach<g ref="char:EOLhyphen"/>ing out of the 29 Pſalm, <hi>That I offend not in my tongue,</hi> &amp;c. he could have wiſhed, might have been before ſo many women, becauſe they are moſt unruly therein.</p>
+         </div>
+         <div n="104" type="maxim">
+            <head>104</head>
+            <p>That it was ſtrange to note, that although all the members of a man declined by age, yet the tongue never, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div n="105" type="maxim">
+            <pb n="53" facs="tcp:115018:33"/>
+            <head>105</head>
+            <p>That although old men and women, were prone to give eaſe to all their other mem<g ref="char:EOLhyphen"/>bers; yet then the tongue moſt wanton, and coveting talk, <hi>&amp;c.</hi> The Palſie of all diſeaſes moſt maimeth the tongue, and yet improveth its tatling or unru<g ref="char:EOLhyphen"/>ly motion, <hi>&amp;c.</hi> This was his Majeſties reply to Dr. <hi>Moun<g ref="char:EOLhyphen"/>tain</hi> then Biſhop of <hi>London.</hi>
+            </p>
+         </div>
+         <div n="106" type="maxim">
+            <head>106</head>
+            <p>That upon report made to his Majeſty of a Gooſe that lo<g ref="char:EOLhyphen"/>ved a man, that it would never be from him whereſoever he went, and upon occaſion would guard him from of<g ref="char:EOLhyphen"/>fence, <hi>&amp;c.</hi> Whereupon his
+<pb n="54" facs="tcp:115018:34"/> Majeſty remembred that Gooſe of the Capitoll; and further ſaid, he thought it as eaſie to prove the diſcent of the foreſaid Gooſe, from that Gooſe of the Capitoll, as the Heralds now do prove the diſ<g ref="char:EOLhyphen"/>cent of many Gent. of theſe times.</p>
+         </div>
+         <div n="107" type="maxim">
+            <head>107</head>
+            <p>That in the direct worſhip of God himſelf, we ought to be guided by the Word of God, as he preſcribeth in the ſame, and not otherwiſe, <hi>&amp;c.</hi> as alſo in the matter of Sacri<g ref="char:EOLhyphen"/>fices; but in the form and or<g ref="char:EOLhyphen"/>der of Ceremonies, that indeed is ſolely left unto the Church, but not the immediate wor<g ref="char:EOLhyphen"/>ſhip,
+<pb n="55" facs="tcp:115018:34"/> we may not therein fol<g ref="char:EOLhyphen"/>low our own wils; that is the main difference between the Church of <hi>Rome</hi> and us, if we may uſe a Will-worſhip, then they are in the right; but if we may not, then we are in the right.</p>
+         </div>
+         <div n="108" type="maxim">
+            <head>108</head>
+            <p>Words are not the diffe<g ref="char:EOLhyphen"/>rence of good men and bad; for every man ſpeaks well: therefore how noble a thing is vertue, when no man dares profeſſe any thing elſe.</p>
+         </div>
+         <div n="109" type="maxim">
+            <head>109</head>
+            <p>I love not one that will ne<g ref="char:EOLhyphen"/>ver be angry: for as he that is without ſorrow, is without
+<pb n="56" facs="tcp:115018:35"/> gladneſſe: ſo he that is without anger, is without love.</p>
+         </div>
+         <div n="110" type="maxim">
+            <head>110</head>
+            <p>There are degrees of men in reſpect of one another, in reſpect of God all are equall; all are to vſe like duty, like reverence, towards him: all are alike beggars Gods door.</p>
+         </div>
+         <div n="111" type="maxim">
+            <head>111</head>
+            <p>We are departed no further from the Church of <hi>Rome,</hi> than they from their firſt Jeſus.</p>
+         </div>
+         <div n="112" type="maxim">
+            <head>112</head>
+            <p>Give me the heart of a man, and out of that, all other his deeds ſhall be acceptable.</p>
+         </div>
+         <div n="113" type="maxim">
+            <head>113</head>
+            <p>In cloaths, I would have a
+<pb n="57" facs="tcp:115018:35"/> faſhion ſhould chuſe a man, and not a man the faſhion.</p>
+         </div>
+         <div n="114" type="maxim">
+            <head>114</head>
+            <p>It is one of the miſeries of man, that when he is full of days, and neer his end, that then he ſhould love life moſt.</p>
+         </div>
+         <div n="115" type="maxim">
+            <head>115</head>
+            <p>It hath like operation to make women learned, as to make Foxes tame, which teacheth them to ſteal more cunningly. The poſſibility is not equall; for where it doth one good it doth twenty harm.</p>
+         </div>
+         <div n="116" type="maxim">
+            <head>116</head>
+            <p>Parents may forbid their Children an unfit match, but they may not force their
+<pb n="58" facs="tcp:115018:36"/> conſent to a fit.</p>
+         </div>
+         <div n="117" type="maxim">
+            <head>117</head>
+            <p>No Country can be called rich wherein there is war; As in the Low-Countries, there is much money; but the Souldi<g ref="char:EOLhyphen"/>ers have it in pay from the Governours, the Boors have it for victuals of the Souldiers, the Governours have it from them again in taxes: ſo there is no Center, no Honour.</p>
+         </div>
+         <div n="118" type="maxim">
+            <head>118</head>
+            <p>No man gains by War, but he that hath not wherewith to live in Peace.</p>
+         </div>
+         <div n="119" type="maxim">
+            <head>119</head>
+            <p>God accepts the intent be<g ref="char:EOLhyphen"/>fore the deed; for if a man do juſtice becauſe he would be
+<pb n="59" facs="tcp:115018:36"/> counted juſt, and not for Gods glory, but becauſe he ſtands anſwerable to God, if he do otherwiſe; or if he puniſh a man rightly, but withall ſatis<g ref="char:EOLhyphen"/>fie his own malice; both theſe are abominable: if he give Alms onely for his reputation ſake, this is a wicked deed; be<g ref="char:EOLhyphen"/>cauſe there is <hi>Nullum medium,</hi> whatſoever is not of faith is ſin.</p>
+         </div>
+         <div n="120" type="maxim">
+            <head>120</head>
+            <p>No man ſhall do ill, that thinks ere he undertakes, what the end will be, not what his paſſion would have it to be.</p>
+         </div>
+         <div n="121" type="maxim">
+            <head>121</head>
+            <p>Time is the eſſence of many Laws, ſo that a King may do
+<pb n="60" facs="tcp:115018:37"/> well at divers times, both in making and marring the ſame law.</p>
+         </div>
+         <div n="122" type="maxim">
+            <head>122</head>
+            <p>I ſhould think it a ſign that God loves me not if I ſhould kill a man by chance, I would moſt unwillingly do that ill which it lies not in my power to amend.</p>
+         </div>
+         <div n="123" type="maxim">
+            <head>123</head>
+            <p>I do not think the greateſt Clarks are neareſt Heaven, much of their knowledge is ſuperfluous; For <hi>Bellarmine</hi> makes 400. queſtions of faith, and not ten of them which roucheth our Salvation to un<g ref="char:EOLhyphen"/>derſtand.</p>
+         </div>
+         <div n="124" type="maxim">
+            <pb n="61" facs="tcp:115018:37"/>
+            <head>124</head>
+            <p>Many have attempted to make glaſs malleable, and ſo Gold artificiall, but both in vain; for God doth ever Croſſe the invention of man, leaſt he ſhould rejoice in his own work.</p>
+         </div>
+         <div n="125" type="maxim">
+            <head>125</head>
+            <p>The perſons of all men are to be alike. Equal to us, and our hate or Love, ſhould one<g ref="char:EOLhyphen"/>ly go according to their Ver<g ref="char:EOLhyphen"/>tues or Vices. Theſe bonds of kindred ſhould onely com<g ref="char:EOLhyphen"/>mand us in all Civill duties, but not our judgements. And particular injuries ſhould one<g ref="char:EOLhyphen"/>ly make us hate that particular
+<pb n="62" facs="tcp:115018:38"/> deed, but not the doer in gene<g ref="char:EOLhyphen"/>rall.</p>
+         </div>
+         <div n="126" type="maxim">
+            <head>126</head>
+            <p>Men of high underſtanding, as they do many things above the common ſtrain; ſo they often fall into greater errours, than thoſe of meaner capaci<g ref="char:EOLhyphen"/>ty, which in all their actions, will rather do nothing faulty than any thing extraordinary, being of a temper better mixt than the former.</p>
+         </div>
+         <div n="127" type="maxim">
+            <head>127</head>
+            <p>The Divell always avoids the mean, and waits upon ex<g ref="char:EOLhyphen"/>tremities; ſo hath he ſought to divide the world betwixt Atheiſm, and ſuperſtition.</p>
+         </div>
+         <div n="128" type="maxim">
+            <pb n="63" facs="tcp:115018:38"/>
+            <head>128</head>
+            <p>All extremities come round to one end, the ſimple obedi<g ref="char:EOLhyphen"/>ence of the Papiſt, and the no obedience of the Puritan; the one breeds confuſion, the other Ignorance, and ſecurity.</p>
+         </div>
+         <div n="129" type="maxim">
+            <head>129</head>
+            <p>The end of the Law is to puniſh ſin when it is commit<g ref="char:EOLhyphen"/>ted; But to keep it from being committed, it cannot; As the Pope, which thinks by allow<g ref="char:EOLhyphen"/>ing Fornication to avoid Adul<g ref="char:EOLhyphen"/>tery.</p>
+         </div>
+         <div n="130" type="maxim">
+            <head>130</head>
+            <p>That the wearing of Leeks on Saint <hi>Davids</hi> day by the Welch-men, was a good, ho<g ref="char:EOLhyphen"/>nourable, and commendable
+<pb n="64" facs="tcp:115018:39"/> faſhion; ſeeing that all me<g ref="char:EOLhyphen"/>morable acts have by their A<g ref="char:EOLhyphen"/>gents ſomething worn for di<g ref="char:EOLhyphen"/>ſtinction, and alſo to preſerve the memory thereof unto po<g ref="char:EOLhyphen"/>ſterity; even as the Paſſeover was to the Jews; that when their children ſhould ask why they went girded, with ſtaves in their hands, they might ſhew them the cauſe, <hi>&amp;c.</hi> So the Welchmen in commemo<g ref="char:EOLhyphen"/>ration of the great fight by their black Prince of Wales, do wear leeks, as their choſen Enſign.</p>
+         </div>
+         <div n="131" type="maxim">
+            <head>131</head>
+            <p>That an infallid thing may be diſcerned and known by a fallid means; as for exam<g ref="char:EOLhyphen"/>ple,
+<pb n="65" facs="tcp:115018:39"/> our ſences are fallid, but by them we know many things infallid, <hi>&amp;c.</hi> whence the Pa<g ref="char:EOLhyphen"/>piſts infer, that becauſe the Church is viſible, therefore the chief Head muſt be viſible: The univerſal Church conſiſt<g ref="char:EOLhyphen"/>eth of two parts, one viſible, the other inviſible; to wit, a viſible body, and an inviſible Spirit; and therefore the chief Head of the Church ſhould rather be inviſible: but we grant many viſible Subſtitutes over the Church, as ſubordi<g ref="char:EOLhyphen"/>nate Rulers under the chief.</p>
+         </div>
+         <div n="132" type="maxim">
+            <head>132</head>
+            <p>His Majeſty obſerved a queint Interrogatory put to a jealous Lover, out of that fa<g ref="char:EOLhyphen"/>mous
+<pb n="66" facs="tcp:115018:40"/> Comedy of <hi>Ignoramus,</hi> the which his Majeſty highly commended; <hi>viz.</hi> whether he deſired moſt, or rather to be termed, <hi>Publius Cornelius,</hi> or <hi>Cornelius Tacitus.</hi> In further approbation of which Come<g ref="char:EOLhyphen"/>dy, beſides in oppoſition and diſlike of another Comedy, performed and acted before his Majeſty by the Schollers of the Univerſity of <hi>Oxford,</hi> that as in <hi>Cambridg</hi> one <hi>Sleep</hi> made him <hi>Wake,</hi> ſo in <hi>Oxford</hi> one <hi>Wake</hi> made him <hi>Sleep.</hi>
+            </p>
+         </div>
+         <div n="133" type="maxim">
+            <head>133</head>
+            <p>Concerning that ſaying, <hi>That the gates of hell ſhall not pre<g ref="char:EOLhyphen"/>vail,</hi> &amp;c. that therefore their Church of <hi>Rome</hi> cannot fall,
+<pb n="67" facs="tcp:115018:40"/> becauſe of the certainty of Gods promiſe to his Church, which they falſly attribute un<g ref="char:EOLhyphen"/>to themſelves. The queſtion onely remains in the circum<g ref="char:EOLhyphen"/>ſtance of time, as between their Church, and the true Church, to wit, whether it be already paſt, or ſhall be hereafter; for they deny not but there ſhall be a general defection, and Antichriſt ſhall be reveal<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi> but they deny it yet to be; and we ſay it is already paſt, and fulfilled in themſelves. But his Majeſties abſolute de<g ref="char:EOLhyphen"/>termination on this point was, The queſtion between them and us, to be the ſame which is yet between the Jews and
+<pb n="68" facs="tcp:115018:41"/> Chriſtians; for they deny not but that a Meſſiah and Saviout muſt and ſhall come, and yet have him in a dayly expectati<g ref="char:EOLhyphen"/>on; but the Chriſtian hold<g ref="char:EOLhyphen"/>eth that he is come already, and hath been in the world, and hath performed all things pre<g ref="char:EOLhyphen"/>appointed of God his eternal Father; even ſuch, or the ve<g ref="char:EOLhyphen"/>ry like, is the queſtion between the Papiſts and Proteſtants, concerning the right and true worſhip of that Meſſiah. The Church Militant his Majeſty compared to the Moon, ſo full of changes; his reaſon for this opinion he gave, was, for that he could not ſee a Church in any place peaceably ſetled, but
+<pb n="69" facs="tcp:115018:41"/> before he could duly conſider thereof, he forthwith percei<g ref="char:EOLhyphen"/>ved the face of it changed, ex<g ref="char:EOLhyphen"/>cept it were thoſe of <hi>Germany,</hi> and the low Countryes, as the Lutherans, and Calviniſts.</p>
+         </div>
+         <div n="134" type="maxim">
+            <head>134</head>
+            <p>God is never better honour<g ref="char:EOLhyphen"/>ed, than in giving him true worſhip, and in loving good men. The King at that time declared himſelf reſolved al<g ref="char:EOLhyphen"/>ways to kneel at the Sacra<g ref="char:EOLhyphen"/>ment, and that for to teſtifie his humility toward God, be<g ref="char:EOLhyphen"/>ing a King, and the rather for example ſake to others that are ſet under him: he ſaid he would not retain willingly a
+<pb n="70" facs="tcp:115018:42"/> Gout in the knee, alluding to Doctor <hi>Lawds</hi> Sermon, a little before made upon that ſub<g ref="char:EOLhyphen"/>ject. His Majeſty confeſſed the Gout in the knee very trou<g ref="char:EOLhyphen"/>bleſome and offenſive indeed, and that by a particular expe<g ref="char:EOLhyphen"/>riment of his own, upon an ac<g ref="char:EOLhyphen"/>cidental hurt which he recei<g ref="char:EOLhyphen"/>ved on his foot at Newmar<g ref="char:EOLhyphen"/>ket, being to receive the holy Communion on Chriſtmaſſe day following, and reſolved to take the ſame kneeling, as aforeſaid, provoked his whole body into a very great ſweat &amp; anguiſh, and therefore conclu<g ref="char:EOLhyphen"/>ded the Gout in the knee to be a main impediment for ſacred Duties, and ſo conceived it
+<pb n="71" facs="tcp:115018:42"/> the eaſier way to ſit, and then the mind might have the bet<g ref="char:EOLhyphen"/>ter opportunity to rove and wander after other prophane and wanton cogitations: His Majeſty did acknowledge that we could never do too much worſhip toward God; ſhould we not (ſaid he) exceed the Turks? who in their falſe worſhip do fall often flat on their faces, and riſe often in the night to perform falſe wor<g ref="char:EOLhyphen"/>ſhip; and this they are injoyn<g ref="char:EOLhyphen"/>ed to do, or otherwiſe they account themſelves damned: he confeſſed that too much worſhip might be rendred to our Lady and other Saints, but doubtleſſe never too much to
+<pb n="72" facs="tcp:115018:43"/> God, and Chriſt his anointed. On the contrary, his Majeſties opinion concerning the eſſence of Gods Deitie, and how ſome will ſeem to flatter him, <hi>&amp;c.</hi> And thereupon commended a tranſlation, that was ſo direct, as it deſcribed God as he was; for he cannot be flattered. As for example, God is ſaid to be Omnipotent, it is true; yet there are ſome things that he cannot have done as he would, in reſpect of mans depraved nature. Again, he made all things; true, all that we can behold: but there was a place in which he was before he made the world. Again, it is ſaid, that he is every where;
+<pb n="73" facs="tcp:115018:43"/> true, but as a King is by his Ambaſſadours, not perſonal<g ref="char:EOLhyphen"/>ly every where. Again it is further ſaid, that God is un<g ref="char:EOLhyphen"/>changeable; yet it is alſo ſaid many times that he repents, and therefore though Kings may ſometimes be flattered, yet God never can.</p>
+         </div>
+         <div n="135" type="maxim">
+            <head>135</head>
+            <p>That he did not know nor read of above three Jews con<g ref="char:EOLhyphen"/>verted in 20. years.</p>
+         </div>
+         <div n="136" type="maxim">
+            <head>136</head>
+            <p>That the Turk ſent him Ambaſſage ſince his comming to <hi>England,</hi> to follow the ſteps of Queen <hi>Elizabeth,</hi> and not to profeſſe Idolatry, for
+<pb n="74" facs="tcp:115018:44"/> that would overthrow his Crown.</p>
+         </div>
+         <div n="137" type="maxim">
+            <head>137</head>
+            <p>That the Turks will not ſuffer the Jews amongſt them to ſacrifice, for that was flat againſt their laws: As we will not ſuffer the Papiſts to worſhip the Maſſe, becauſe againſt our Laws.</p>
+         </div>
+         <div n="138" type="maxim">
+            <head>138</head>
+            <p>That the Jews had been ſo bitten with puniſhments for Idolatry, that they would ne<g ref="char:EOLhyphen"/>ver indure any ſhew of it.</p>
+         </div>
+         <div n="137" type="maxim">
+            <head>137</head>
+            <p>That the religion of the Turks was compoſed of the Jewiſh religion, of the Chri<g ref="char:EOLhyphen"/>ſtian, and of the Arians; and
+<pb n="75" facs="tcp:115018:44"/> policy thereof, was to draw infinites of people to his ſubjection, that were uncer<g ref="char:EOLhyphen"/>tainly affected; as in the low-Countries they uſe diverſities of religions to ſtrengthen their power, but this was obſerved by the King, to be a ſtrange po<g ref="char:EOLhyphen"/>licy.</p>
+         </div>
+         <div n="140" type="maxim">
+            <head>140</head>
+            <p>That he confeſſed the Turk to be the greateſt Prince in the world; and yet that he did not command the tenth part of them which profeſſed Ma<g ref="char:EOLhyphen"/>hometiſm.</p>
+         </div>
+         <div n="141" type="maxim">
+            <head>141</head>
+            <p>That there was ten of his religion to one that profeſſed any kind of Chriſtianity, and
+<pb n="76" facs="tcp:115018:45"/> therefore the Popes univerſa<g ref="char:EOLhyphen"/>lity convinced.</p>
+         </div>
+         <div n="142" type="maxim">
+            <head>142</head>
+            <p>That through the divers compoſitions of the Turks re<g ref="char:EOLhyphen"/>ligion, a great part of the world was infected, as both the <hi>Indiaes, America, Perſia,</hi> &amp;c.</p>
+         </div>
+         <div n="143" type="maxim">
+            <head>143</head>
+            <p>The King profeſſed that he would chuſe rather to turn Turk, than in ſome fables be<g ref="char:EOLhyphen"/>lieve <hi>Bellarmine.</hi>
+            </p>
+         </div>
+         <div n="144" type="maxim">
+            <head>144</head>
+            <p>That a German was natu<g ref="char:EOLhyphen"/>rally moſt conſtant to him<g ref="char:EOLhyphen"/>ſelf, for although he could well faſhion himſelf to any Country he travelled into, yet
+<pb n="77" facs="tcp:115018:45"/> returning home to his own, he would appear to any mans judgement, nothing changed from the manner and conditi<g ref="char:EOLhyphen"/>on of his own Nation, and ſo in him is moſt truly fulfilled <hi>Coelum non animum mutant qui tranſmare currunt;</hi> but with the Engliſh, or any other na<g ref="char:EOLhyphen"/>tion, for the moſt part it is not ſo.</p>
+         </div>
+         <div n="145" type="maxim">
+            <head>145</head>
+            <p>That he oft heard the Lord of <hi>Northampton</hi> ſay, that a French-man, though never ſo grave &amp; ſober of countenance, yet at one time or other would have his frisk of vanity.</p>
+         </div>
+         <div n="146" type="maxim">
+            <head>146</head>
+            <p>That Tobacco was the live<g ref="char:EOLhyphen"/>ly
+<pb n="78" facs="tcp:115018:46"/> image and pattern of hell; for that by alluſion, it had in it all the parts and vices of the world, whereby hell may be gained; to wit, firſt it was a ſmoak, ſo are the vanities of the world a ſmoak and va<g ref="char:EOLhyphen"/>pour. Secondly, it delight<g ref="char:EOLhyphen"/>eth them who take it, ſo do the pleaſures of the world delight the men of the world. Thirdly, it maketh men drun<g ref="char:EOLhyphen"/>ken and light in the head, and ſo do vanities of the world men are drunk therewith.' Fourthly, he that taketh To<g ref="char:EOLhyphen"/>bacco, ſaith, he cannot leave it, it doth bewitch him; even ſo the pleaſures of the world make men loath to leave them, ſo
+<pb n="79" facs="tcp:115018:46"/> they are for the moſt part ſo inchanted with them. Be<g ref="char:EOLhyphen"/>ſides the former alluſion, it is like hell in the very ſub<g ref="char:EOLhyphen"/>ſtance of it, for it is a ſtink<g ref="char:EOLhyphen"/>ing loathſome thing, ſo is hell; it goeth in at the mouth and out at the noſe, ſo doth the ſmoke of hell through the body and head.</p>
+         </div>
+         <div n="147" type="maxim">
+            <head>147</head>
+            <p>That he hath heard an old Miniſter ſay, touching confor<g ref="char:EOLhyphen"/>mity, that it would be a ſcan<g ref="char:EOLhyphen"/>dall for himſelf to conform, yet will allow that his ſon may do it, as if he living a fool all his life, deſired ſo to die.</p>
+         </div>
+         <div n="148" type="maxim">
+            <pb n="80" facs="tcp:115018:47"/>
+            <head>148</head>
+            <p>That no man can thrive that keepeth a whore at rack and manger, to wit, openly, with juſtification. That to rove is proper to expreſſe the action of the body, but to rave is an action of the mind.</p>
+         </div>
+         <div n="149" type="maxim">
+            <head>149</head>
+            <p>That miracles are now uſed and maintained among the Pa<g ref="char:EOLhyphen"/>piſts, to the end to confirm a falſe belief on Saints, accor<g ref="char:EOLhyphen"/>ding as at firſt Chriſt uſed miracles, to cauſe and confirm a true belief on himſelf.</p>
+         </div>
+         <div n="150" type="maxim">
+            <head>150</head>
+            <p>Evangelikes are not Evan<g ref="char:EOLhyphen"/>geliſts.</p>
+         </div>
+         <div n="151" type="maxim">
+            <pb n="81" facs="tcp:115018:47"/>
+            <head>151</head>
+            <p>That he is not of opinion that all ſpeeches in Scripture touching beaſts or fouls, by allegory doth agree with the proper and peculiar natures of them; as of that, <hi>Be wiſe as Serpents;</hi> or that compariſon of <hi>Iob</hi> to the Oſtridge, that ſee<g ref="char:EOLhyphen"/>meth to neglect her young by leaving her egs in the duſt, which is not the proper nature of them, as hath been approved by Barbary-Marchants that have ſeen them: but it ſeemeth ſo outwardly, becauſe ſhe hi<g ref="char:EOLhyphen"/>deth her egs in the ſand, and ſo removeth a little from them, but ſurely for no other end but to protect them, that at
+<pb n="82" facs="tcp:115018:48"/> the time of need, and in the hat<g ref="char:EOLhyphen"/>ching to break the ſhell, which of it ſelf cannot.</p>
+         </div>
+         <div n="152" type="maxim">
+            <head>152</head>
+            <p>That there was never any noted Heretick, but the ſect of him were much more hereti<g ref="char:EOLhyphen"/>call.</p>
+         </div>
+         <div n="153" type="maxim">
+            <head>153</head>
+            <p>That he could find more ar<g ref="char:EOLhyphen"/>guments in the Papiſts work for the Pope, than the Pope himſelf could do.</p>
+         </div>
+         <div n="154" type="maxim">
+            <head>154</head>
+            <p>That the Canoniſts are the very Divels of all the reſt.</p>
+         </div>
+         <div n="155" type="maxim">
+            <head>155</head>
+            <p>That <hi>Peter</hi> ſeeing <hi>Malchus</hi> his Kinſman witneſſe againſt him, made him fear the more,
+<pb n="83" facs="tcp:115018:48"/> and ſo denied his Maſter.</p>
+         </div>
+         <div n="156" type="maxim">
+            <head>156</head>
+            <p>Thar if they had accuſed Chriſt of ryot, the ſame wit<g ref="char:EOLhyphen"/>neſſe would have proved mat<g ref="char:EOLhyphen"/>ter to declare his Divinity, in healing his ear again.</p>
+         </div>
+         <div n="157" type="maxim">
+            <head>157</head>
+            <p>To commit a ſin againſt the letter of the Law moral, is greater than a ſin againſt the conſequent; as for example, Adultery is a greater ſin than Fornication.</p>
+         </div>
+         <div n="158" type="maxim">
+            <head>158</head>
+            <p>That he ſtiled a book once ſent him, by the name of <hi>Mel<g ref="char:EOLhyphen"/>chiſedeck,</hi> being without begin<g ref="char:EOLhyphen"/>ning or ending.</p>
+         </div>
+         <div n="159" type="maxim">
+            <pb n="84" facs="tcp:115018:49"/>
+            <head>159</head>
+            <p>That he readeth more Pa<g ref="char:EOLhyphen"/>piſts books than Proteſtant, and from thence findeth mat<g ref="char:EOLhyphen"/>ter to confirm him in the Pro<g ref="char:EOLhyphen"/>teſtant Religion.</p>
+         </div>
+         <div n="160" type="maxim">
+            <head>160</head>
+            <p>That taking all things to the ſtraight tenor of the written letter, is the matter of jar be<g ref="char:EOLhyphen"/>twixt the Puritans and Us.</p>
+         </div>
+         <div n="161" type="maxim">
+            <head>161</head>
+            <p>That <hi>Henry</hi> the fourth of <hi>France</hi> would have ſent Cardi<g ref="char:EOLhyphen"/>nal <hi>Peron</hi> to convert him, the which he denyed, for that he held him weak and ſhallow; and refuſed to loſe a heavenly crown for an earthly.</p>
+         </div>
+         <div n="162" type="maxim">
+            <pb n="85" facs="tcp:115018:49"/>
+            <head>162</head>
+            <p>That he would not admit a publick diſputation between twelve Papiſts, and twelve Pro<g ref="char:EOLhyphen"/>teſtants, himſelf being choſen Umpire; becauſe he might loſe more, that would not be ſatisfied, than he could win, al<g ref="char:EOLhyphen"/>though the Papiſts ſide were convicted.</p>
+         </div>
+         <div n="163" type="maxim">
+            <head>163</head>
+            <p>The true Proteſtant Religion ſtands like a virtue between two vices, Popery and Separa<g ref="char:EOLhyphen"/>tiſm: That, an extremity, in the exceſſe; this, in the defect: that aims at the confuſion of the State; this makes confuſi<g ref="char:EOLhyphen"/>on in the Church. Let that Prince that deſires the welfare
+<pb n="86" facs="tcp:115018:50"/> of his Kingdome, cruſh the power of the one, and curb the malice of the other: ſo ſhall his Church be peacefull, his State honourable, and on his head ſhall his crown flouriſh.</p>
+         </div>
+         <div n="164" type="maxim">
+            <head>164</head>
+            <p>Let every Prince that loves reſt, make war his laſt refuge: A deſperate remedy is unſea<g ref="char:EOLhyphen"/>ſonable, but where the diſeaſe is deſperate: Be the war never ſo juſt, the effect is miſerable. Far ſafer is a certain peace, than an uncertain victory; that is concluded by reaſon; this by fortune.</p>
+         </div>
+         <div n="165" type="maxim">
+            <head>165</head>
+            <p>It is ſafer for a Prince to truſt Providence and a weak
+<pb n="87" facs="tcp:115018:50"/> Army, than to ſtrengthen it with forreign forces: Yet when his neceſſity borrows their preſence to compaſſe a Con<g ref="char:EOLhyphen"/>queſt, let his wiſdom purchaſe their abſence though at a high price. He that entertains Aux<g ref="char:EOLhyphen"/>iliaries, holds a wolf by the ears.</p>
+         </div>
+         <div n="166" type="maxim">
+            <head>166</head>
+            <p>As it is a ſtain to the honour of a Prince to break his pro<g ref="char:EOLhyphen"/>miſe: ſo it is no leſſe blemiſh to the wiſdome of a State, not to prevent the means of break<g ref="char:EOLhyphen"/>ing it. To take too open no<g ref="char:EOLhyphen"/>tice of a Princes infirmities, if guilty, fils him with deſperate Rage; if not, with implacable Revenge.</p>
+         </div>
+         <div n="167" type="maxim">
+            <pb n="88" facs="tcp:115018:51"/>
+            <head>167</head>
+            <p>Let not the civil diſcords in a forreign Kingdom encourage thee to make invaſion: they that are factious among them<g ref="char:EOLhyphen"/>ſelves, and jealous one of ano<g ref="char:EOLhyphen"/>ther, are more ſtrongly pre<g ref="char:EOLhyphen"/>par'd to encounter with a com<g ref="char:EOLhyphen"/>mon enemy: thoſe whom ci<g ref="char:EOLhyphen"/>vil commotions ſet at variance, forreign hoſtility reconciles. Men rather affect the poſſeſſi<g ref="char:EOLhyphen"/>on of an inconvenient good, than the poſſibility of an un<g ref="char:EOLhyphen"/>certain better.</p>
+         </div>
+         <div n="168" type="maxim">
+            <head>168</head>
+            <p>Let no price, nor promiſe of Honour bribe thee to take part with the enemies of thy Prince: Aſſure thy ſelf, whoſoever
+<pb n="89" facs="tcp:115018:51"/> wins, thou art loſt: if thy Prince prevail, thou art branded for a Rebel, and marked for death: if the enemy proſper, thou ſhalt be reckoned as a Tray<g ref="char:EOLhyphen"/>tor, and not ſecured of thy life. He ſerves his Kingdome that deſtroyes a Rebel; and it is a common thing for him that loves the Treaſon to hate the Traytor.</p>
+         </div>
+         <div n="169" type="maxim">
+            <head>169</head>
+            <p>Although a wicked King is ſent by God for a curſe to his people, and plague for their ſins; yet it is not lawfull for them to ſhake off that curſe at their own pleaſures, that God hath laid upon them.</p>
+         </div>
+         <div n="170" type="maxim">
+            <pb n="90" facs="tcp:115018:52"/>
+            <head>170</head>
+            <p>The ſafeſt guard a King can have, is the love of his ſubjects, his greateſt honour their proſperity.</p>
+         </div>
+         <div n="171" type="maxim">
+            <head>171</head>
+            <p>As Law is to a well go<g ref="char:EOLhyphen"/>verned Common-wealth, ſo are good orders in Houſhold government, without which, no houſhold can ſtand.</p>
+         </div>
+         <div n="172" type="maxim">
+            <head>172</head>
+            <p>Though <hi>Moſes</hi> were in<g ref="char:EOLhyphen"/>ſtructed, inſpired, and conduct<g ref="char:EOLhyphen"/>ed by Almighty God him<g ref="char:EOLhyphen"/>ſelf: yet, he refuſed not the good counſell of <hi>Iethro,</hi> for the manner of his government, which alſo Almighty God allowed in him.</p>
+         </div>
+         <div n="173" type="maxim">
+            <pb n="91" facs="tcp:115018:52"/>
+            <head>173</head>
+            <p>It is a certain rule in all dark Propheſies, that they are never clearly underſtood till they be accompliſhed.</p>
+         </div>
+         <div n="174" type="maxim">
+            <head>174</head>
+            <p>Many reſpects may law<g ref="char:EOLhyphen"/>fully let in admiſſion, that will not be ſufficient cauſes of de<g ref="char:EOLhyphen"/>privation.</p>
+         </div>
+         <div n="175" type="maxim">
+            <head>175</head>
+            <p>No wiſe man can think him a fit man to counſell him, or to govern under him, that can<g ref="char:EOLhyphen"/>not govern himſelf, and his own family; and therefore <hi>Baſilius</hi> adviſed his ſon, to take ſuch Counſellours, who had given proof and experience of their wiſedome, in the good
+<pb n="90" facs="tcp:115018:53"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="91" facs="tcp:115018:53"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="92" facs="tcp:115018:54"/> conduct and direction of their own affairs.</p>
+         </div>
+         <div n="176" type="maxim">
+            <head>176</head>
+            <p>Emulation is the bait of Virtue; for looking into the ſweetneſſe of the reward, men undertake the labour.</p>
+         </div>
+         <div n="177" type="maxim">
+            <head>177</head>
+            <p>It is leſſe difficult for per<g ref="char:EOLhyphen"/>ſons of indifferent eſtates, to make their choiſe of friends, than for great men; yet, onely ſafe to poverty; for there, he muſt be in love with himſelf, or nothing.</p>
+         </div>
+         <div n="178" type="maxim">
+            <head>178</head>
+            <p>Better it is that matters be not ſtirred at all, than after they be once a foot, and in mo<g ref="char:EOLhyphen"/>tion, to give the truth leave to
+<pb n="93" facs="tcp:115018:54"/> lie gaſping and ſprangling, un<g ref="char:EOLhyphen"/>der the violence of a Forraign faction.</p>
+         </div>
+         <div n="179" type="maxim">
+            <head>179</head>
+            <p>Sometimes there is as good uſe, to be made of diſhoneſt, as honeſt friends; for poiſons are as neceſſary as wholeſome ſimples, if they be in a hand able to prepare them.</p>
+         </div>
+         <div n="180" type="maxim">
+            <head>180</head>
+            <p>Suggeſtions are needleſſe from abroad, when the miſ<g ref="char:EOLhyphen"/>chief is felt at home.</p>
+         </div>
+         <div n="191" type="maxim">
+            <head>191</head>
+            <p>Although particular men of all profeſſion of religion, have been ſome theeves, ſome murtherers ſome traitors; yet ever, when they came to their
+<pb n="94" facs="tcp:115018:55"/> end and juſt puniſhment, they confeſſed their fault to be in nature, and not in their profeſ<g ref="char:EOLhyphen"/>ſion; the Roman-Catholicks onely excepted.</p>
+         </div>
+         <div n="182" type="maxim">
+            <head>182</head>
+            <p>The friends of a private Fortune, are leſſe dangerous; in greater, there is more gain, and ſo more loſſe: he that ſtands without, ſtands naked, and ſubject to every ſtorm: who underpropped, ſo long ſafe; but no ſooner looſened, but ruined.</p>
+         </div>
+         <div n="183" type="maxim">
+            <head>183</head>
+            <p>To anſwer an improbable imagination is to fight againſt a vaniſhing ſhadow.</p>
+         </div>
+         <div n="184" type="maxim">
+            <pb n="95" facs="tcp:115018:55"/>
+            <head>184</head>
+            <p>It is a true ſaying, that alled<g ref="char:EOLhyphen"/>ged kindneſs upon noble minds, doth ever work much.</p>
+         </div>
+         <div n="185" type="maxim">
+            <head>185</head>
+            <p>Too much ſuſpicion begets treachery, and an obſtinate belief is dangerous folly.</p>
+         </div>
+         <div n="186" type="maxim">
+            <head>186</head>
+            <p>For a little money a man may have more from the Pope, than ever God promi<g ref="char:EOLhyphen"/>ſed by his grace to grant, a re<g ref="char:EOLhyphen"/>miſſion of all ſins paſt and to come.</p>
+         </div>
+         <div n="187" type="maxim">
+            <head>187</head>
+            <p>Preſent croſſes are but pre<g ref="char:EOLhyphen"/>paratives to them we may feel.</p>
+         </div>
+         <div n="188" type="maxim">
+            <pb n="96" facs="tcp:115018:56"/>
+            <head>188</head>
+            <p>Let no man think that he may frame and make his wife as he pleaſeth, that deceived <hi>Solomon,</hi> the wiſeſt King that ever was.</p>
+         </div>
+         <div n="189" type="maxim">
+            <head>189</head>
+            <p>It is wiſdome for him that ſits at the helm of a ſettled State, to demean himſelf to<g ref="char:EOLhyphen"/>wards his ſubjects at all times, ſo, that in hard times they may be willing and ready to ſerve his occaſion: He that is onely gracious at the approach of danger, will be in danger, when he expects deliverance.</p>
+         </div>
+         <div n="190" type="maxim">
+            <head>190</head>
+            <p>In all deſigns, which require not ſudden execution, take ma<g ref="char:EOLhyphen"/>ture,
+<pb n="97" facs="tcp:115018:56"/> and ſerious conſiderati<g ref="char:EOLhyphen"/>on, and weigh the convenients, with the inconvenients, and then reſolve; and having reſolved, neither delay the execution, nor bewray thy intention<g ref="char:punc">▪</g> He that diſcovers himſelf till he hath made himſelf Maſter of his de<g ref="char:EOLhyphen"/>ſires, layes himſelf open to his own ruine, and makes himſelf priſoner to his own folly.</p>
+         </div>
+         <div n="191" type="maxim">
+            <head>191</head>
+            <p>Liberality in a Prince is no virtue, when maintained at the ſubjects unwilling coſt: it is leſſe reproach, by miſerable<g ref="char:EOLhyphen"/>neſſe to preſerve the popular
+<pb n="98" facs="tcp:115018:57"/> love, than by liberality to de<g ref="char:EOLhyphen"/>ſerve private thanks.</p>
+         </div>
+         <div n="192" type="maxim">
+            <head>192</head>
+            <p>It is the excellent property of a wiſe Prince, to uſe war as he doth Phyſick, carefully, un<g ref="char:EOLhyphen"/>willingly, and ſeaſonably; ei<g ref="char:EOLhyphen"/>ther to prevent approaching dangers, to correct a preſent miſchief, or to recover a for<g ref="char:EOLhyphen"/>mer loſſe. He that declines Phyſick, till he be accoſted with the danger, or too much weakened by the diſeaſe, is bold too long, and wiſe too late: that peace is too preciſe, that limits the juſtneſſe of war to a drawn ſword, or a blow given.</p>
+         </div>
+         <div n="193" type="maxim">
+            <pb n="99" facs="tcp:115018:57"/>
+            <head>193</head>
+            <p>Let that Prince that would beware of conſpiracies, be rather jealous of ſuch, whom his extraordinary favours have advanced, than of thoſe, whom his diſpleaſure hath diſcontent<g ref="char:EOLhyphen"/>ed: theſe want means to exe<g ref="char:EOLhyphen"/>cute their pleaſures; but they have means at pleaſure to exe<g ref="char:EOLhyphen"/>cute their deſires. Ambition to rule, is more vehement than Malice to revenge.</p>
+         </div>
+         <div n="194" type="maxim">
+            <head>194</head>
+            <p>Before thou undertake a war, caſt an impartiall eye upon the occaſion. If it be juſt, prepare thy Army, and let them all know, they are to fight for
+<pb n="100" facs="tcp:115018:58"/> God and thee: It adds fire to the ſpirit of a ſouldier, to be aſſured that he ſhall either proſper in a fair war, or pe<g ref="char:EOLhyphen"/>riſh in a juſt cauſe.</p>
+         </div>
+         <div n="195" type="maxim">
+            <head>195</head>
+            <p>He that is not a Philoſopher governs by gueſſe, and will prove a dangerous States-man, for when uncontrouled affe<g ref="char:EOLhyphen"/>ctions meet with high fortune, they commonly begin tyran<g ref="char:EOLhyphen"/>ny and oppreſſion.</p>
+         </div>
+         <div n="196" type="maxim">
+            <head>196</head>
+            <p>The difference between the godly, and ungodly is, that God doth viſit the ungodly by puniſhments, names of Plagues, Curſes, and deſtructions; as the
+<pb n="101" facs="tcp:115018:58"/> plague of Egypt, the curſe of <hi>Cain,</hi> the deſtruction of <hi>Sodom;</hi> but the righteous, when he doth viſit them, his puniſh<g ref="char:EOLhyphen"/>ments, corrections, chaſtiſe<g ref="char:EOLhyphen"/>ments, and rods, which pro<g ref="char:EOLhyphen"/>ceed from inſtruction, not deſtruction, to purge them, not to deſtroy them.</p>
+         </div>
+         <div n="197" type="maxim">
+            <head>197</head>
+            <p>It is not ſufficient for him that already hath enough to defend him from baſeneſſe and want, onely to eat, and drink, and make an even reckoning at the years end: for, that is ba<g ref="char:EOLhyphen"/>ſer then baſeneſs: no, let him do his Country ſervice, and purchaſe honour to his houſe;
+<pb n="102" facs="tcp:115018:59"/> for we are not in the the world for fruition, but for action.</p>
+         </div>
+         <div n="198" type="maxim">
+            <head>198</head>
+            <p>There is no difference be<g ref="char:EOLhyphen"/>tween common Lovers, and common Whores, they both flatter, and make the name of love their bands, to ſerve their particular pleaſures.</p>
+         </div>
+         <div n="199" type="maxim">
+            <head>199</head>
+            <p>As mans nature is not onely to ſtrive, againſt a preſent ſmart, but to revenge a paſſed injury; ſo we ſee, that ma<g ref="char:EOLhyphen"/>lice hath a longer life than ei<g ref="char:EOLhyphen"/>ther love or thankfulneſs hath: For, as always we take more care, to put off pain, than to enjoy pleaſure; becauſe the
+<pb n="103" facs="tcp:115018:59"/> one hath intermiſſion, and with the other we are ſatisfied; So it is in the ſmart of injuries, and the memory of good turns; Wrongs are written in marble, benefits are ſome<g ref="char:EOLhyphen"/>times acknowledged, requited rarely.</p>
+         </div>
+         <div n="200" type="maxim">
+            <head>200</head>
+            <p>Allmſ-deeds merit nothing at Gods hands, yet they make him our debtor, according to his gracious promiſe.</p>
+         </div>
+         <div n="201" type="maxim">
+            <head>201</head>
+            <p>Preſumption is ever apt to draw comfort from the vaſt Ocean of appetite; but diſcre<g ref="char:EOLhyphen"/>tion from the ſweet ſprings of opportunitie.</p>
+         </div>
+         <div n="202" type="maxim">
+            <pb n="104" facs="tcp:115018:60"/>
+            <head>202</head>
+            <p>He Councels beſt that pre<g ref="char:EOLhyphen"/>fers the cauſe of God before any particular.</p>
+         </div>
+         <div n="203" type="maxim">
+            <head>203</head>
+            <p>Where good men are a<g ref="char:EOLhyphen"/>fraid, to call a vice by the proper name, it is a ſign that the vice is common, and that great perſons (whom it is not ſafe to anger) are infected therewith.</p>
+         </div>
+         <div n="204" type="maxim">
+            <head>204</head>
+            <p>He that knows not the true grounds of an evill, cannot help it but by change, which is a dangerous guide of a Com<g ref="char:EOLhyphen"/>mon wealth.</p>
+         </div>
+         <div n="205" type="maxim">
+            <head>205</head>
+            <p>Conſcience, not grounded
+<pb n="105" facs="tcp:115018:60"/> on knowledge, is either an ig<g ref="char:EOLhyphen"/>norant fantaſie, or an arrogant vanitie; in one extremitie the Papiſts erre, in the other the A<g ref="char:EOLhyphen"/>nabaptiſts.</p>
+         </div>
+         <div n="206" type="maxim">
+            <head>206</head>
+            <p>Correction without in<g ref="char:EOLhyphen"/>ſtruction is meer Tyranny.</p>
+         </div>
+         <div n="207" type="maxim">
+            <head>207</head>
+            <p>God which is the great Law-maker, by his Laws prevents ſins, to the end that pu<g ref="char:EOLhyphen"/>niſhments may be inflicted on it juſtly, as to avoid Idolatry, he forbiddeth the making of Images: <hi>He that cannot live chaste let him marry.</hi>
+            </p>
+         </div>
+         <div n="208" type="maxim">
+            <head>208</head>
+            <p>Falſe miracles, and lying
+<pb n="106" facs="tcp:115018:61"/> news are the food of ſuperſti<g ref="char:EOLhyphen"/>tion, which by credulity de<g ref="char:EOLhyphen"/>ludes ignorant people.</p>
+         </div>
+         <div n="209" type="maxim">
+            <head>209</head>
+            <p>God who cals his elect unto himſelf, to make him enjoy heaven, compels none to make defection from himſelf: <hi>Nam perdicio tua, ex te Iſrael.</hi>
+            </p>
+         </div>
+         <div n="210" type="maxim">
+            <head>210</head>
+            <p>Time the mother, will bring forth Verity her daughter, in due ſeaſon to perfection.</p>
+         </div>
+         <div n="211" type="maxim">
+            <head>211</head>
+            <p>Riches are deſired of wiſe men, onely to keep them from baſeneſſe, and to exerciſe cha<g ref="char:EOLhyphen"/>rity.</p>
+         </div>
+         <div n="212" type="maxim">
+            <pb n="107" facs="tcp:115018:61"/>
+            <head>212</head>
+            <p>A good Paſtor is the Phy<g ref="char:EOLhyphen"/>ſitian of the ſoul, and ought to apply his doctrine accord<g ref="char:EOLhyphen"/>ing to the tenderneſſe or hard<g ref="char:EOLhyphen"/>neſſe of the conſcience, for want of which diſcretion ſome mens zeal hath done hurt.</p>
+         </div>
+         <div n="213" type="maxim">
+            <head>213</head>
+            <p>It is a point of wiſedome to maintain the truth with as little diſputation as may be, leaſt a good cauſe be marred with ill handling.</p>
+         </div>
+         <div n="214" type="maxim">
+            <head>214</head>
+            <p>The beſt Laws are made out of thoſe good Cuſtomes, whereunto the people are na<g ref="char:EOLhyphen"/>turally inclined.</p>
+         </div>
+         <div n="215" type="maxim">
+            <pb n="108" facs="tcp:115018:62"/>
+            <head>215</head>
+            <p>Groſſe and brutiſh errors are ſooner reformed than mea<g ref="char:EOLhyphen"/>ner eſcapes, for ſo much as the one cannot be defended without impudency, whereas the other admits ſome colour for excuſe.</p>
+         </div>
+         <div n="216" type="maxim">
+            <head>216</head>
+            <p>It is not lawfull to uſe un<g ref="char:EOLhyphen"/>law full inſtruments, were it for never ſo good a purpoſe; for that <hi>Axiome</hi> in Divinity is moſt certain and infallible, <hi>non eſt faciendum malum, ut bo<g ref="char:EOLhyphen"/>num inde eveniet.</hi>
+            </p>
+         </div>
+         <div n="217" type="maxim">
+            <head>217</head>
+            <p>Valour is overcome by weakneſſe, but being too much
+<pb n="109" facs="tcp:115018:62"/> prized, it turneth to unbride<g ref="char:EOLhyphen"/>led fury.</p>
+         </div>
+         <div n="218" type="maxim">
+            <head>218</head>
+            <p>It is neither ſafe nor ho<g ref="char:EOLhyphen"/>nourable for a Prince to buy his Peace, or take it up at inte<g ref="char:EOLhyphen"/>reſt. He that hath not a ſword to command it, ſhall either want it, or want honour with it.</p>
+         </div>
+         <div n="219" type="maxim">
+            <head>219</head>
+            <p>It is very requiſite for a Prince not onely to weigh his deſigns in the flower, but like<g ref="char:EOLhyphen"/>wiſe in the fruit: he is an un<g ref="char:EOLhyphen"/>thrift of his honour, that en<g ref="char:EOLhyphen"/>terpriſes any deſign, the failing wherein, may bring him more diſgrace, then the good ſucceſs can gain him honour.</p>
+         </div>
+         <div n="220" type="maxim">
+            <pb n="110" facs="tcp:115018:63"/>
+            <head>220</head>
+            <p>It is much conduceable to the happineſſe of a Prince and the ſecurity of his Kingdome, to gain the hearts of his ſub<g ref="char:EOLhyphen"/>jects: they that love for fear, will hardly be induced to fear for love: it is a wiſe Govern<g ref="char:EOLhyphen"/>ment which gains ſuch a Tie upon the ſubject, that he either cannot hurt, or will not: but that government is beſt and moſt ſure, when the Prince commands with love, and the ſubject joys in his obedience.</p>
+         </div>
+         <div n="221" type="maxim">
+            <head>221</head>
+            <p>Let every ſouldier arm his mind with hopes, and put on courage: whatſoever diſaſter
+<pb n="111" facs="tcp:115018:63"/> fals, let not his heart ſink: the paſſage of providence lies through many crooked ways; and a deſpairing heart is the true Prophet of approaching ruine. His actions may weave the webs of fortune, but not break them.</p>
+         </div>
+         <div n="222" type="maxim">
+            <head>222</head>
+            <p>It is the part of a wiſe Ma<g ref="char:EOLhyphen"/>giſtrate to vindicate a man of Power, or State imployment, from the malicious ſcandall of the giddy headed multitude, and to puniſh it with great ſe<g ref="char:EOLhyphen"/>verity: ſcandall breeds hatred, hatred begets diviſion, diviſion makes raction, and faction brings ruine.</p>
+         </div>
+         <div n="223" type="maxim">
+            <pb n="112" facs="tcp:115018:64"/>
+            <head>223</head>
+            <p>The ſtrongeſt Caſtles that a Prince can build to ſecure him from domeſtick commo<g ref="char:EOLhyphen"/>tions, or forreign invaſion is the hearts of his loving ſubjects and the means to gain that ſtrength, is in all his actions to appear for the publick good; ſtudious to contrive and reſolute to perform.</p>
+         </div>
+         <div n="224" type="maxim">
+            <head>224</head>
+            <p>It much conduces to the publick-weal, either of a Principality, or Republick, not to ſuffer the money and trea<g ref="char:EOLhyphen"/>ſure of a State, to be ingroſſed into the hands of few: money is like muck, not good, unleſs it be ſpread.</p>
+         </div>
+         <div n="225" type="maxim">
+            <pb n="113" facs="tcp:115018:64"/>
+            <head>225</head>
+            <p>It is a neceſsary providence in a Prince to encourage in his Kingdome, Manufacture, Marchandize, Arts and Arms. In Manufacture lie the vitall ſpirits of the body politick; in Marchandize, the ſpirits na<g ref="char:EOLhyphen"/>turall; in Arts and Arms the animall: if either of theſe lan<g ref="char:EOLhyphen"/>guiſh, the body droops: as they flouriſh the body flouri<g ref="char:EOLhyphen"/>ſhes.</p>
+         </div>
+         <div n="226" type="maxim">
+            <head>226</head>
+            <p>It is more dangerous for a Prince to violate his laws, then his ſubjects: they are liable to puniſhment and puniſh<g ref="char:EOLhyphen"/>ment ſatisfies, and ſatisfaction
+<pb n="114" facs="tcp:115018:65"/> cures and rectifies the breach: But in him, the wound ranckles for want of cure: that how<g ref="char:EOLhyphen"/>ever a Prince begins to break his own laws, and ancient cuſtoms, his State begins her ruine.</p>
+         </div>
+         <div n="227" type="maxim">
+            <head>227</head>
+            <p>If thou chance to entertain any forreign Souldiers, into thy Army, let them bear thy co<g ref="char:EOLhyphen"/>lours, and be at thy pay, leſt they intereſt their own Prince: Auxiliary Souldiers are moſt dangerous: a forreign Prince needs no greater invitation to ſeize upon thy Countrey, than when he is required to defend it.</p>
+         </div>
+         <div n="228" type="maxim">
+            <pb n="115" facs="tcp:115018:65"/>
+            <head>228</head>
+            <p>Be cautious in undertaking a deſign upon report of ſuch as are exiled their Country, leſt thou come off with ſhame, or loſſe, or both: their ends expect advantages from thy actions, whoſe miſeries lay hold of all opportunities, and ſeek to be made whole upon thy ruine.</p>
+         </div>
+         <div n="229" type="maxim">
+            <head>229</head>
+            <p>Many do deceive themſelves, in ſaying, they care not for the Father or Mothers curſe, ſo they deſerve it not: But be<g ref="char:EOLhyphen"/>ware, you muſt not invert the order of nature, in judging your Superiours, chiefly in your own particular; for e<g ref="char:EOLhyphen"/>ver
+<pb n="116" facs="tcp:115018:66"/> the bleſſing or curſe of the Parents, hath a prophetick power joyned with it.</p>
+         </div>
+         <div n="230" type="maxim">
+            <head>230</head>
+            <p>Beware of ſwearing and ly<g ref="char:EOLhyphen"/>ing, though but in jeft; for oaths are but an uſe, and a ſin cloathed with no delight or gain: and therefore the more unexcuſable, even before men.</p>
+         </div>
+         <div n="231" type="maxim">
+            <head>231</head>
+            <p>The Devil never aſſails a man, except he find him either void of knowledge, or of the fear of God.</p>
+         </div>
+         <div n="232" type="maxim">
+            <head>232</head>
+            <p>If a man ſhall once take up<g ref="char:EOLhyphen"/>on him to call that light, which God calls heavy; that ſin veni<g ref="char:EOLhyphen"/>al,
+<pb n="117" facs="tcp:115018:66"/> which God calls grievous; meaſuring any one ſin by the meaſures of his luſt and appe<g ref="char:EOLhyphen"/>tite, and not of his Conſcience; what ſhall let him to do with the next that his affections ſtir him to? the like reaſon ſerving for all, and ſo go for<g ref="char:EOLhyphen"/>ward till he place his whole corrupted affections in Gods room.</p>
+         </div>
+         <div n="233" type="maxim">
+            <head>233</head>
+            <p>As none can be Scollars in a School, and not be ſubject to the Maſter thereof, ſo none can ſtudie, or put in practiſe the circles and art of Magick, without committing any hor<g ref="char:EOLhyphen"/>rible defection from God.</p>
+         </div>
+         <div n="234" type="maxim">
+            <pb n="118" facs="tcp:115018:67"/>
+            <head>234</head>
+            <p>Treaſurers and Uſhers, are commonly hated in Court, becauſe of neceſſity they muſt give denials and diſgraces.</p>
+         </div>
+         <div n="235" type="maxim">
+            <head>235</head>
+            <p>The honour of a King ſtands in the multitude of the people; and his ſtrength and ſafety in the love of his ſubjects.</p>
+         </div>
+         <div n="236" type="maxim">
+            <head>236</head>
+            <p>They are not fit for the Court, that are either obſti<g ref="char:EOLhyphen"/>nate in opinion, or uncourte<g ref="char:EOLhyphen"/>ous in carriage: wherefore the noble mind is moſt fit; for they are always more cour<g ref="char:EOLhyphen"/>teous to take things in good part, than the baſer ſort.</p>
+         </div>
+         <div n="237" type="maxim">
+            <pb n="119" facs="tcp:115018:67"/>
+            <head>237</head>
+            <p>The glory of a Kingdome is a pious and potent Prince: the ſtrength of a Prince, is a religi<g ref="char:EOLhyphen"/>ous and a loyal ſubject: the happineſs of a ſubject is a long ſetled, and a well eſtabliſhed peace, the fruits of that peace is plenty, and al worldly felicity.</p>
+         </div>
+         <div n="238" type="maxim">
+            <head>238</head>
+            <p>It is the part of a wiſe Coun<g ref="char:EOLhyphen"/>ſell, to uſe all means for the preventing jealouſie between the King and his people, as the greateſt evill in a Common<g ref="char:EOLhyphen"/>wealth, and the deadlieſt ene<g ref="char:EOLhyphen"/>my to affection and obedience. Griefs are more troubleſome in the apprehenſion than in the ſenſe: Evils that are felt, are
+<pb n="120" facs="tcp:115018:68"/> far more curable than thoſe which are feared.</p>
+         </div>
+         <div n="239" type="maxim">
+            <head>239</head>
+            <p>As unity within it ſelf feli<g ref="char:EOLhyphen"/>cifies, and perpetuates; ſo ci<g ref="char:EOLhyphen"/>vil diſcord demoliſhes, and de<g ref="char:EOLhyphen"/>ſtroys the very being of a Common-wealth. <hi>A Kingdom that is divided cannot stand.</hi> It is better for a State to admit of two inconveniencies, than one ſuch miſchief; and more honourable to comply with ſome loſſe on both ſides, than by weakning one another to give advantage to a forreign enemy. That body is in great danger that bleeds inwardly.</p>
+         </div>
+         <div n="240" type="maxim">
+            <pb n="121" facs="tcp:115018:68"/>
+            <head>240</head>
+            <p>Let that Kingdome which hath injoyed a long peace, ex<g ref="char:EOLhyphen"/>pect a hard bargain in the next war: long ſetled humours give foment to the diſtemper when it breaks forth, and prolongs the cure when it ſeeks remedy: No ſurfeit ſo mortall, as what proceeds from the ſecurity of a long continued peace.</p>
+         </div>
+         <div n="241" type="maxim">
+            <head>241</head>
+            <p>Every Age breeds ſome exor<g ref="char:EOLhyphen"/>bitant Spirits, who turn the edge of their own ſufficiency, upon whatſoever they can de<g ref="char:EOLhyphen"/>vour in their ambitious appre<g ref="char:EOLhyphen"/>henſions, ſeeking rather a great than a good fame, and holding it the chiefeſt honour to be
+<pb n="122" facs="tcp:115018:69"/> thought the wonder of their times; which if they attain unto, is but in the condition of Monſters, that are general<g ref="char:EOLhyphen"/>ly much admired, but more abhorred.</p>
+         </div>
+         <div n="242" type="maxim">
+            <head>242</head>
+            <p>Friendſhip is of that nature, as it always deſires to be en<g ref="char:EOLhyphen"/>tertained with mutual good offices; therefore we muſt not ſuffer it to grow cold; for coldneſſe is a degree of dead<g ref="char:EOLhyphen"/>neſſe.</p>
+         </div>
+         <div n="243" type="maxim">
+            <head>243</head>
+            <p>They that are to make de<g ref="char:EOLhyphen"/>mands or requeſts to their friends, muſt regard how the ſame may ſtand with the ſafe<g ref="char:EOLhyphen"/>ty of their friends, that their
+<pb n="123" facs="tcp:115018:69"/> motions and requeſts may ſtand with their honour and ſurety to accord unto it.</p>
+         </div>
+         <div n="244" type="maxim">
+            <head>244</head>
+            <p>The cauſe of aſſembling all Parliaments, are two; for Laws, or Money; the one be<g ref="char:EOLhyphen"/>ing the ſinews of peace, the o<g ref="char:EOLhyphen"/>ther of war.</p>
+         </div>
+         <div n="245" type="maxim">
+            <head>245</head>
+            <p>Good purpoſes as well in Princes, as private men, have many hinderers; therefore, when the commodities, or diſ<g ref="char:EOLhyphen"/>commodities of taking or re<g ref="char:EOLhyphen"/>fuſing are once throughly weighed, a ſpeedy reſolution is the beſt to cut off ſuch
+<pb n="124" facs="tcp:115018:70"/> inconveniences, that delay of time commonly bringeth.</p>
+         </div>
+         <div n="246" type="maxim">
+            <head>246</head>
+            <p>As the naturall body is de<g ref="char:EOLhyphen"/>lighted in change, ſo is alſo the politick body greedy of altera<g ref="char:EOLhyphen"/>tion.</p>
+         </div>
+         <div n="247" type="maxim">
+            <head>247</head>
+            <p>As a whole man meanly able, may do as much as a halfman better able; ſo an in<g ref="char:EOLhyphen"/>feriour wit bent and conver<g ref="char:EOLhyphen"/>ſant upon one ſubject, ſhall many times with patience and mediation, diſſolve and undo many of thoſe knots and doubts, which a greater wit diſtracted with many matters, would rather cut in two, then unknit.</p>
+         </div>
+         <div n="248" type="maxim">
+            <pb n="125" facs="tcp:115018:70"/>
+            <head>248</head>
+            <p>Such as are bent to hold with the difficulties of effect<g ref="char:EOLhyphen"/>ing any thing, are commonly againſt it.</p>
+         </div>
+         <div n="249" type="maxim">
+            <head>249</head>
+            <p>Many neglect the wiſe<g ref="char:EOLhyphen"/>dome, to maintain themſelves, that God hath beſtowed upon them, and ſo worthily ſuffer by their own folly.</p>
+         </div>
+         <div n="250" type="maxim">
+            <head>250</head>
+            <p>In civill actions he is the greater and deeper politick, that can make other men the inſtruments of his will and ends, and yet never acquaint them with his purpoſe, ſo as they ſhall do it, and yet not know what they do; than he
+<pb n="126" facs="tcp:115018:71"/> that imparteth his meaning to thoſe that he imployeth.</p>
+         </div>
+         <div n="251" type="maxim">
+            <head>251</head>
+            <p>God made angels pure minds bodileſſe, beaſts bodies mindleſſe, but man both body and mind, the Horizon between both.</p>
+         </div>
+         <div n="252" type="maxim">
+            <head>252</head>
+            <p>Errours by miſtaking, ſhould not be too rigorouſly cenſu<g ref="char:EOLunhyphen"/>red, but errours that be wil<g ref="char:EOLhyphen"/>full, ſhould not be ſpared.</p>
+         </div>
+         <div n="253" type="maxim">
+            <head>253</head>
+            <p>The duty of a Magiſtrate conſiſteth in three eſpeciall points, in ruling, teaching, and judging, that he be wiſe to go<g ref="char:EOLhyphen"/>vern,
+<pb n="127" facs="tcp:115018:71"/> vertuous to give exam<g ref="char:EOLhyphen"/>ple, and impartiall to judge.</p>
+         </div>
+         <div n="254" type="maxim">
+            <head>254</head>
+            <p>If thy ſtrength of parts hath raiſed thee to an eminent place in the Common-wealth, take heed thou ſitteſt ſure; if not, thy fall will be the great<g ref="char:EOLhyphen"/>er: As great worth is a fit matter for glory; ſo glory is a fair mark for envy. By how much the more thy advance<g ref="char:EOLhyphen"/>ment was thought the reward of deſert, by ſo much thy fall will adminiſter matter for diſ<g ref="char:EOLhyphen"/>dain. It is the fortune of a ſtrong brain, if not to be dig<g ref="char:EOLhyphen"/>nified as meritorious, to be de<g ref="char:EOLhyphen"/>preſt as dangerous.</p>
+         </div>
+         <div n="255" type="maxim">
+            <pb n="128" facs="tcp:115018:72"/>
+            <head>255</head>
+            <p>It is the duty of a States<g ref="char:EOLhyphen"/>man eſpecially in a Free-State, to hold the Common-wealth to her principles, and firſt form of government, from the which the more ſhe ſwerves, the more ſhe declines: which being declined, ſhe is not commonly reduced, with<g ref="char:EOLhyphen"/>out that extremity, the danger whereof rather ruines than rectifies. Fundamentall alte<g ref="char:EOLhyphen"/>rations bring inevitable pe<g ref="char:EOLhyphen"/>rils.</p>
+         </div>
+         <div n="256" type="maxim">
+            <head>256</head>
+            <p>Let not the proceedings of a Commander, though never ſo commendable, be confined to all times; as theſe alter, ſo
+<pb n="129" facs="tcp:115018:72"/> muſt they: if theſe vary, and not they, ruine is not far off: he leaſt fails in his deſign that meets time in its own way, and he that obſerves not the al<g ref="char:EOLhyphen"/>teration of the times, ſhall ſel<g ref="char:EOLhyphen"/>dome be victorious but by ch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce: but he that cannot al<g ref="char:EOLhyphen"/>ter in his courſe according to the alteration of the times, ſhall never be a Conqueror. He is a wiſe Commander, and onely he, can diſcover the alte<g ref="char:EOLhyphen"/>ration of the times, and pro<g ref="char:EOLhyphen"/>portion his proceedings accor<g ref="char:EOLhyphen"/>ding to the alteration he diſco<g ref="char:EOLhyphen"/>vers.</p>
+         </div>
+         <div n="257" type="maxim">
+            <head>257</head>
+            <p>Neceſſity of fighting doubles
+<pb n="130" facs="tcp:115018:73"/> courage in the ſouldier, and an impoſſibility of eſcape adds ſpirit to the coward: it is great wiſedome in a Com<g ref="char:EOLhyphen"/>mander, always to leave a Port open, to encourage his enemy to flight: it is better to build him a ſilver bridge to invite him to go, then bul-warks of earth to neceſſitate him to ſtay.</p>
+         </div>
+         <div n="258" type="maxim">
+            <head>258</head>
+            <p>It is the part of a wiſe Commander, not to ſuffer his ſouldiers to fall to the ſpoile till his conqueſt be perfected, being the ready way to ſnatch victory out of his hands: he that takes up the ſtakes ere the game be done, lays them often
+<pb n="131" facs="tcp:115018:73"/> down again with ſhame and diſadvantage.</p>
+         </div>
+         <div n="259" type="maxim">
+            <head>259</head>
+            <p>The greateſt weakning to an army is diſorder: the grea<g ref="char:EOLhyphen"/>teſt cauſe of diſorder is want of pay; by reaſon whereof the ſouldiers either mutiny or revolt: Let that Prince that would be obeyed in his Com<g ref="char:EOLhyphen"/>mands, not ſuffer a greater power in the Camp then him<g ref="char:EOLhyphen"/>ſelf: the powerfulleſt Com<g ref="char:EOLhyphen"/>mander in an Army is neceſ<g ref="char:EOLhyphen"/>ſity.</p>
+         </div>
+         <div n="260" type="maxim">
+            <head>260</head>
+            <p>It is great wiſedome in Counſellours of State to make
+<pb n="132" facs="tcp:115018:74"/> haſt, leiſurely: State alterati<g ref="char:EOLhyphen"/>ous are beſt graduall; it is leſſe danger to anticipate occa<g ref="char:EOLhyphen"/>ſion then to foreſlow it. To reap in a right ſeaſon makes a full Barn, and a rich Farmer.</p>
+         </div>
+         <div n="261" type="maxim">
+            <head>261</head>
+            <p>Thoſe counſels are beſt carried, which the enemy ra<g ref="char:EOLhyphen"/>ther finds by execution, than relation, and which truſt not to any, without whom they may be put in Act: as expe<g ref="char:EOLhyphen"/>dition is the life of Action, ſo ſociety is the life of conſulta<g ref="char:EOLhyphen"/>tion.</p>
+         </div>
+         <div n="262" type="maxim">
+            <head>262</head>
+            <p>Prepare to war when thou propoundeſt for peace; other<g ref="char:EOLhyphen"/>wiſe
+<pb n="133" facs="tcp:115018:74"/> thy peace will be hardly obtained, or too highly prized: What ere thy firſt Article be, let disbanding be the laſt; A cunning cur though he wag his tail, will ſhew his teeth; the beſt Treaty is with a drawn Sword, and the ſafeſt peace is concluded under a Buckler.</p>
+         </div>
+         <div n="263" type="maxim">
+            <head>263</head>
+            <p>The Alchymiſts from a true poſition do produce a falſe aſſumption to maintain their practiſe; as for example, E<g ref="char:EOLhyphen"/>very creature or thing hath a natural inclination to the per<g ref="char:EOLhyphen"/>fection of the ſame kind; as poor ſilly Worms by change of climate may become Serpents; and in all Minerals
+<pb n="134" facs="tcp:115018:75"/> the perfection is gold, ſo all inferious mettals have incli<g ref="char:EOLhyphen"/>nation to gold, which is but (as we ſay) the quinteſſence, fat, or cream of other mettals, and not conſiſting in any vein of it ſelf. Now from this general poſition, the Alchymiſts with a certain compoſition with o<g ref="char:EOLhyphen"/>ther mettals (moſt having ſome gold in them) do think to ripen them into gold by Art, as men may do the other fruits of the earth; which is no certain rule, and therefore a falſe aſſumption from a true poſition.</p>
+         </div>
+         <div n="264" type="maxim">
+            <head>264</head>
+            <p>That many learned writers have recorded things for truth,
+<pb n="135" facs="tcp:115018:75"/> which experience hath falſifi<g ref="char:EOLhyphen"/>ed; as for inſtance, His Maje<g ref="char:EOLhyphen"/>ſty gave his own experience touching the worms found in a Stags head, which are re<g ref="char:EOLhyphen"/>ported to die if put into wa<g ref="char:EOLhyphen"/>ter, but will live in wine, the which being tryed, they live equally in both.</p>
+         </div>
+         <div n="265" type="maxim">
+            <head>265</head>
+            <p>Sir <hi>Francis Kinnaston</hi> by experience falſified the Alchy<g ref="char:EOLhyphen"/>miſts report, that a Hen being ſed for certain days with gold, beginning when <hi>Sol</hi> was in <hi>Leo,</hi> ſhould be converted into gold, and ſhould lay golden eggs: which being tryed, was no ſuch thing, but became indeed very fat. His Majeſties anſwer
+<pb n="136" facs="tcp:115018:76"/> and conceit thereupon was, that ſurely ſomewhat was o<g ref="char:EOLhyphen"/>mitted in Sir <hi>Francis</hi> his expe<g ref="char:EOLhyphen"/>riment; to wit, he wanted faith to believe, as himſelf did al<g ref="char:EOLhyphen"/>ways in the like, or ſuch mat<g ref="char:EOLhyphen"/>ters: but one thing more might have been added, more amply to ſatisfie the experi<g ref="char:EOLhyphen"/>ment; if the Cock had been firſt ſed with gold, and after<g ref="char:EOLhyphen"/>ward have troden the Hen, might haply have ſuceeded better.</p>
+         </div>
+         <div n="266" type="maxim">
+            <head>266</head>
+            <p>That it is as abſurd and wick<g ref="char:EOLhyphen"/>ed to account the Virgin <hi>Mary</hi> the Queen of heaven (accord<g ref="char:EOLhyphen"/>ing to the Popes doctrine) be<g ref="char:EOLhyphen"/>cauſe ſhe is the natural mo<g ref="char:EOLhyphen"/>ther
+<pb n="137" facs="tcp:115018:76"/> of our Lord, as to think there is a Goddeſſe, becauſe we have a known God.</p>
+         </div>
+         <div n="267" type="maxim">
+            <head>267</head>
+            <p>That the Virgin <hi>Mary</hi> was more happy in bearing Chriſt firſt in her heart by faith, than in her womb.</p>
+         </div>
+         <div n="268" type="maxim">
+            <head>268</head>
+            <p>That he did believe, that Chriſt did affect and love her while he was on the earth more than any other woman, as he had reaſon; but not as he was God, but as he was man, the ſon of her fleſh. This doth not derogate from her due eſtimation, but to nullifie her power now with Chriſt in heaven, as well as of all other
+<pb n="138" facs="tcp:115018:77"/> Saints, to remit and get par<g ref="char:EOLhyphen"/>don for ſin.</p>
+         </div>
+         <div n="269" type="maxim">
+            <head>269</head>
+            <p>Whether boldneſſe or baſh<g ref="char:EOLhyphen"/>fulneſſe did ſooneſt prevail in Court? His Majeſties opini<g ref="char:EOLhyphen"/>on was, that baſhfulneſſe did; alluding to the Lord Duke of Buckingham, who at his firſt comming to Court, exceeded in baſhfulneſſe; and when his Majeſty firſt caſt his eye upon him, the Lord of Arundel be<g ref="char:EOLhyphen"/>ing asked by his Majeſty, what he thought of him? he anſwer<g ref="char:EOLhyphen"/>ed, that his bluſhing baſhful<g ref="char:EOLhyphen"/>neſſe was ſuch, as he thought he would do but little good in Court favours.</p>
+         </div>
+         <div n="270" type="maxim">
+            <pb n="139" facs="tcp:115018:77"/>
+            <head>270</head>
+            <p>That if there were no other quarrel between the Papiſts and Proteſtants, but the num<g ref="char:EOLhyphen"/>ber of Sacraments, he would himſelf be a Papiſt; for he held it not worth the quarrel<g ref="char:EOLhyphen"/>ling: as appeared by a tale of two friends in Scotland, being great in friendſhip, and in the cup falling out about that ſub<g ref="char:EOLhyphen"/>ject, the one a great Papiſt, the other a Proteſtant; ſo they fought, and were both ſlain; a third ſaid, before he would have loſt his life in that quar<g ref="char:EOLhyphen"/>rel, he would have divided the ſeven into three and an half.</p>
+         </div>
+         <div n="271" type="maxim">
+            <pb n="140" facs="tcp:115018:78"/>
+            <head>271</head>
+            <p>That many things in Religi<g ref="char:EOLhyphen"/>on, were rather carried by mans opinion, than perfect in<g ref="char:EOLhyphen"/>tention to the truth.</p>
+         </div>
+         <div n="272" type="maxim">
+            <head>272</head>
+            <p>That himſelf would not condemn any thing for here<g ref="char:EOLhyphen"/>ſie that had been anciently con<g ref="char:EOLhyphen"/>firmed by an univerſal conſent.</p>
+         </div>
+         <div n="273" type="maxim">
+            <head>273</head>
+            <p>That of extream Unction, as of other things uſed by that Church of Rome, he was of an indifferent opinion, ſo it might be continued according to the firſt intention, and ſo of many other things with them.</p>
+         </div>
+         <div n="274" type="maxim">
+            <head>274</head>
+            <p>That of his wife, the Queen
+<pb n="141" facs="tcp:115018:78"/> 
+               <hi>Anne</hi> deceaſed, (he ſpake to his own comfort) that ſhe would often ſay unto him, Look you keep your ſelf in the right way; for I am re<g ref="char:EOLhyphen"/>ſolved to follow you whi<g ref="char:EOLhyphen"/>therſoever, even to the brink of hell; for I am within your charge: ſaying withal, that all good wives ſhould never forſake their husbands in any thing, being required by them, not directly againſt God, not for any diſeaſe or ſickneſſe whatſoever.</p>
+         </div>
+         <div n="275" type="maxim">
+            <head>275</head>
+            <p>That he would never believe any news in verſe, ſince the hearing of a Ballad made of
+<pb n="142" facs="tcp:115018:79"/> the Biſhop of Spalata, touch<g ref="char:EOLhyphen"/>ing his being a Mattyr.</p>
+         </div>
+         <div n="276" type="maxim">
+            <head>276</head>
+            <p>That he would never uſe o<g ref="char:EOLhyphen"/>ther argument to convince the Papiſts of their opinion of miracles, but by their own doctrine, whereunto moſt of their miracles are altogether repugnant: as for example; A fable they have, that the Picture of our Lady ſhould ſtir, <hi>&amp;c.</hi> their doctrine is, that their Images are but repreſen<g ref="char:EOLhyphen"/>tative, <hi>&amp;c.</hi> Now what diſ<g ref="char:EOLhyphen"/>proportion appeareth between their opinion and doctrine?</p>
+         </div>
+         <div n="277" type="maxim">
+            <head>277</head>
+            <p>To beſtow benefits on the bad, maketh them worſe, and
+<pb n="143" facs="tcp:115018:79"/> vilifieth the reward of the virtuous.</p>
+         </div>
+         <div n="278" type="maxim">
+            <head>278</head>
+            <p>Clemency is a divine in<g ref="char:EOLhyphen"/>ſtinct, and worketh ſuperna<g ref="char:EOLhyphen"/>tural effects.</p>
+         </div>
+         <div n="279" type="maxim">
+            <head>279</head>
+            <p>By the Devils means, Devils can never be caſt out; and therefore they are fools, who to cure a diſeaſe caſt on by a witch, ſeek the help of ſome other witch, whereas prayer and amendment of life is the onely cure.</p>
+         </div>
+         <div n="280" type="maxim">
+            <head>280</head>
+            <p>It is the part of a well advi<g ref="char:EOLhyphen"/>ſed State not to entruſt a weighty ſervice, unto whom a noted injury, or diſhonour
+<pb n="144" facs="tcp:115018:80"/> hath been done, and not firſt righted: he can never be a zealous performer of ſervice, the height of whoſe expectatio<g ref="char:cmbAbbrStroke">̄</g> can rather recover a loſt name, than can gain a freſh honour.</p>
+         </div>
+         <div n="281" type="maxim">
+            <head>281</head>
+            <p>It is the property of a wiſe Commander not to read books ſo much as men, nor men ſo much as Nations: he that can diſcern the inclinations, conditions, and paſſions of a Kingdome, gains his State or Prince a great advantage both in peace and war.</p>
+         </div>
+         <div n="282" type="maxim">
+            <head>282</head>
+            <p>If thou art called to the dignity of a Commander, dig<g ref="char:EOLhyphen"/>nifie
+<pb n="145" facs="tcp:115018:80"/> thy place by thy Com<g ref="char:EOLhyphen"/>mands; and that thou mayſt be the more perfect in com<g ref="char:EOLhyphen"/>manding others, practiſe dai<g ref="char:EOLhyphen"/>ly upon thy ſelf. Remember thou art a ſervant to the pub<g ref="char:EOLhyphen"/>lick weal, and therefore forget all private reſpects: remem<g ref="char:EOLhyphen"/>ber thou art a Champion for a Kingdom; forget therefore all private affections, either of love or hate: he that would do his Country right, muſt not be too ſenſible of perſonal wrongs. He that would be remembred in the rols of honour, muſt it count it no diſhonour to for<g ref="char:EOLhyphen"/>get himſelf.</p>
+         </div>
+         <div n="283" type="maxim">
+            <head>283</head>
+            <p>In the tender of an oath of
+<pb n="146" facs="tcp:115018:81"/> Aſſociation or Covenant, be<g ref="char:EOLhyphen"/>have thy ſelf wiſely: either take it not, or being taken break it not: Wit may find out niceties to wreſt it, but no juſt argu<g ref="char:EOLhyphen"/>ments to avoid it; an oath is ta<g ref="char:EOLhyphen"/>ken not in the ſenſe of him that takes it; but of him that takes aſſurance by it.</p>
+         </div>
+         <div n="284" type="maxim">
+            <head>284</head>
+            <p>In Domeſtick Commotions being doubtfull which ſide to take, if the cauſe be religion, thou needeſt no counſellour: If meerly civill let the Scriptures and reaſon direct thee: How<g ref="char:EOLhyphen"/>ever, there is a way preſents it ſelf to thy wiſedome, where<g ref="char:EOLhyphen"/>by, if thou haſt an eſtate, thou
+<pb n="147" facs="tcp:115018:81"/> mayeſt make it ſure whoſoe<g ref="char:EOLhyphen"/>ver wins, and make thy one Stake ſure whoſoever loſes. <hi>Capiat qui capere poteſt.</hi>
+            </p>
+         </div>
+         <div n="285" type="maxim">
+            <head>285</head>
+            <p>The lower ſort of people are deſirous of novelties, and apt for change; weighing go<g ref="char:EOLhyphen"/>vernment with the ſcales of their own fortunes: they are to ſenſible of evils in preſent to fear worſe in future: let ſuch know, they move in their par<g ref="char:EOLhyphen"/>ticular Orbs, not in the com<g ref="char:EOLhyphen"/>mon Sphear; and that the alte<g ref="char:EOLhyphen"/>ration of the heavens makes no ſtar greater: which way ſoever the change moves, a Cobler ſhall be but a Cobler ſtill.</p>
+         </div>
+         <div n="286" type="maxim">
+            <pb n="148" facs="tcp:115018:82"/>
+            <head>286</head>
+            <p>It is high wiſedome in a Prince to weigh the ſeverall actions of his counſellours: for the want whereof ſo many good Princes have both loſt themſelves, and ruined their Kingdomes: it is a common thing, to mask private ends, under publick pretences: it is better for a State to have a wicked Prince of a good na<g ref="char:EOLhyphen"/>ture, than a good Prince with ſuch Counſellours.</p>
+         </div>
+         <div n="287" type="maxim">
+            <head>287</head>
+            <p>It is very requiſite for a Prince to have an eye: the Clergy are elected, and come in by the collation of him or
+<pb n="149" facs="tcp:115018:82"/> particular Patrons, and not wholly by the people; and that their power hold dependance, not from forreign authority: it is dangerous in a Kingdome, where the Croſiers receive not power from the Regall ſword.</p>
+         </div>
+         <div n="288" type="maxim">
+            <head>288</head>
+            <p>It is a perilous weakneſſe in a State to be ſlow of reſolu<g ref="char:EOLhyphen"/>tion in the time of war: To be irreſolute in determination, is both the ſign, and ruine of a weak State: ſuch affairs at<g ref="char:EOLhyphen"/>tend not time: let the wiſe States-man abhor delay, and reſolve rather what to do, than adviſe what to ſay; ſlow deli<g ref="char:EOLhyphen"/>berations in a quick buſineſſe
+<pb n="150" facs="tcp:115018:83"/> are Symptoms, either of a faint courage, or weak forces, or falſe hearts.</p>
+         </div>
+         <div n="289" type="maxim">
+            <head>289</head>
+            <p>If a Conquerour hath ſub<g ref="char:EOLhyphen"/>dued a Country or a City a<g ref="char:EOLhyphen"/>bounding with pleaſure, let him be very circumſpect to keep himſelf and ſouldiers temperate: pleaſures brings effiminacy, and effiminacy fore-runs ruine: ſuch con<g ref="char:EOLhyphen"/>queſts without bloud, or ſweat, ſufficiently revenge themſelves upon the heads of their intemperate Conque<g ref="char:EOLhyphen"/>rours.</p>
+         </div>
+         <div n="290" type="maxim">
+            <head>290</head>
+            <p>It is a dangerous ſign of
+<pb n="151" facs="tcp:115018:83"/> approaching ruine in a Repub<g ref="char:EOLhyphen"/>lick, when religion is neglect<g ref="char:EOLhyphen"/>ed, and her eſtabliſhed cere<g ref="char:EOLhyphen"/>monies interrupted. Let there<g ref="char:EOLhyphen"/>fore that Prince or State, that would be potent, be pious, and that they may puniſh pro<g ref="char:EOLhyphen"/>phaneneſſe the better, let them be religious: the joy of Jeruſa<g ref="char:EOLhyphen"/>lem depends upon the peace of Sion.</p>
+         </div>
+         <div n="291" type="maxim">
+            <head>291</head>
+            <p>It is dangerous for a Prince to uſe ambitious natures, but upon neceſſity, either for his wars to be skreens of his dan<g ref="char:EOLhyphen"/>ger, or to be inſtruments, for the demoliſhing inſolent great<g ref="char:EOLhyphen"/>neſſe: And that they may be the leſſe dangerous, let him
+<pb n="152" facs="tcp:115018:84"/> them, rather out of mean births than noble; and out of harſh natures, rather than plau<g ref="char:EOLhyphen"/>ſible; and always be ſure to ballance them with thoſe that are as proud as themſelves.</p>
+         </div>
+         <div n="292" type="maxim">
+            <head>292</head>
+            <p>Let Princes be very care<g ref="char:EOLhyphen"/>full in the choice of their coun<g ref="char:EOLhyphen"/>ſellours, chuſing neither by the greatneſſe of the beard, or the ſmoothneſſe of the face, nor by the form of the head, but by the ſquareneſſe of their actions: let them be wiſe, but not crafty; active without private ends, couragious with<g ref="char:EOLhyphen"/>out malice; religious without faction; ſecret without fraud;
+<pb n="153" facs="tcp:115018:84"/> one better read in his Princes buſineſſe, than his nature; and a riddle onely to be read a<g ref="char:EOLhyphen"/>bove.</p>
+         </div>
+         <div n="293" type="maxim">
+            <head>293</head>
+            <p>Let him that deſires to enjoy happineſſe in a State, reverence good things paſt; ſubmit to lawfull things preſent; be pro<g ref="char:EOLhyphen"/>vident for things future: let him wiſh for good Princes: if good, prize them without ſa<g ref="char:EOLhyphen"/>tiety; if bad, endure them without rebellion.</p>
+         </div>
+         <div n="294" type="maxim">
+            <head>294</head>
+            <p>Before thou build a For<g ref="char:EOLhyphen"/>treſſe conſider to what end; if for reſiſtance againſt the ene<g ref="char:EOLhyphen"/>my, it is uſeleſſe: A valiant Army is a living Fortreſſe: if
+<pb n="154" facs="tcp:115018:85"/> for ſuppreſſing the ſubject, it is hurtfull: It breeds jealou<g ref="char:EOLhyphen"/>ſies, and jealouſies beget ha<g ref="char:EOLhyphen"/>tred. Howſoever, if thou haſt aſtrong army, it adds nothing to thy ſtrength: if thy army be weak it conduces much to thy danger: the ſureſt Fort, is the hand of thy ſouldiers; and the ſafeſt Cittadel, is the hearts of thy ſubjects.</p>
+         </div>
+         <div n="295" type="maxim">
+            <head>295</head>
+            <p>It is a Princely Alchimy, out of neceſſary war, to ex<g ref="char:EOLhyphen"/>tract an honourable peace; and more beſeeming the Ma<g ref="char:EOLhyphen"/>jeſty of a Prince, to thirſt af<g ref="char:EOLhyphen"/>ter peace, than Conqueſt: bleſ<g ref="char:EOLhyphen"/>ſedneſſe is promiſed to the
+<pb n="155" facs="tcp:115018:85"/> peace-maker, not to the con<g ref="char:EOLhyphen"/>querour: it is a happy State whoſe Prince hath a peacefull hand, and a martiall heart; able both to uſe peace, and to ma<g ref="char:EOLhyphen"/>nage war.</p>
+         </div>
+         <div n="296" type="maxim">
+            <head>296</head>
+            <p>Let not a Commander be too forward to undertake a war without the perſon of his Prince: it is a thankleſſe im<g ref="char:EOLhyphen"/>ployment where miſchief at<g ref="char:EOLhyphen"/>tends upon the beſt ſucceſſe, and where (if a Conquerour) he ſhall be in danger, either through his own ambition, or his Princes ſuſpicion.</p>
+         </div>
+         <div n="297" type="maxim">
+            <head>297</head>
+            <p>When the humours of the
+<pb n="156" facs="tcp:115018:86"/> people are ſtirred by diſcon<g ref="char:EOLhyphen"/>tents, or grief, it is wiſedome in a Prince to give them mo<g ref="char:EOLhyphen"/>derate liberty to evaporate: he that turns the bloud back too haſtily, makes the bloud bleed inwardly, and fils the body with malignity.</p>
+         </div>
+         <div n="298" type="maxim">
+            <head>298</head>
+            <p>If having levied an army, thou findeſt thy ſelf too weak, either through want of men or money, the longer thou delayeſt to fight the greater the incovenience grows: if once thy army falls a ſunder, thou certainly loſeſt by delay; where, hazarding thy fortunes betimes, thou haſt the advan<g ref="char:EOLhyphen"/>tage
+<pb n="157" facs="tcp:115018:86"/> of thy men; and mayeſt by fortune win the day: it is leſſe diſhonour to be over<g ref="char:EOLhyphen"/>come by force than flight.</p>
+         </div>
+         <div n="299" type="maxim">
+            <head>299</head>
+            <p>It is the part of a wiſe Commander in wars, whether offenſive, or defenſive, to work into the breaſts of thy ſouldiers, a neceſſity of fight<g ref="char:EOLhyphen"/>ing: neceſſity of the action takes away the fear of the act, and makes bold reſolution the favourite of fortune.</p>
+         </div>
+         <div n="300" type="maxim">
+            <head>300</head>
+            <p>Clemency and mildneſſe is moſt proper for a Principalli<g ref="char:EOLhyphen"/>ty; but reſervedneſſe, and ſe<g ref="char:EOLhyphen"/>verity for a Republick; but
+<pb n="158" facs="tcp:115018:87"/> moderation in both: Exceſſe in the one breeds contempt, in the other hatred; when to ſharpen the firſt, and when to ſweeten the laſt, let time and occaſion direct thy judgement.</p>
+         </div>
+         <div n="301" type="maxim">
+            <head>301</head>
+            <p>Be not covetous for prio<g ref="char:EOLhyphen"/>rity, in adviſing thy Prince to doubtfull attempts, which con<g ref="char:EOLhyphen"/>cern his State: if they proſ<g ref="char:EOLhyphen"/>per the glory muſt be his; if they fail, the diſhonour will be thine: when the ſpirit of a Prince is ſtopt in the diſ<g ref="char:EOLhyphen"/>charge, it wil recoil, and wound the firſt adviſer.</p>
+         </div>
+         <div n="302" type="maxim">
+            <head>302</head>
+            <p>If being Commander of
+<pb n="159" facs="tcp:115018:87"/> an army, thou eſpieſt a groſs and manifeſt errour in thy enemy, look well to thy ſelf, ſtratagem is not far off: he that ſets his Queen in palpable danger, may chance, at next remove, give thy King Check<g ref="char:EOLhyphen"/>mate: he whom deſire of vi<g ref="char:EOLhyphen"/>ctory blinds too much, is apt to ſtumble at his own deſtructi<g ref="char:EOLhyphen"/>on.</p>
+         </div>
+         <div n="303" type="maxim">
+            <head>303</head>
+            <p>It is very requiſite for a Prince that deſires the conti<g ref="char:EOLhyphen"/>nuance of peace, in times of peace to encourage and make much of his Commanders: When brave ſpirits find neg<g ref="char:EOLhyphen"/>lect to be the effect of quiet times, they deviſe all means to
+<pb n="160" facs="tcp:115018:88"/> remove the cauſe, and by ſug<g ref="char:EOLhyphen"/>geſting inducements to new wars, diſturb and unſettle the old peace, buying private ho<g ref="char:EOLhyphen"/>nour with publick dangers.</p>
+         </div>
+         <div n="304" type="maxim">
+            <head>304</head>
+            <p>It is the height of a provi<g ref="char:EOLhyphen"/>dent Commander, not onely to keep his own deſigns undiſ<g ref="char:EOLhyphen"/>coverable to the enemy, but likewiſe to be ſtudious in diſ<g ref="char:EOLhyphen"/>covering his: he that can beſt do the one, and neareſt gueſſe at the other, is the next ſtep to a Conquerour: but he that fails in both, muſt either aſcribe his overthrow to his own folly, or his victory to ex<g ref="char:EOLhyphen"/>traordinary providence.</p>
+         </div>
+         <div n="305" type="maxim">
+            <pb n="161" facs="tcp:115018:88"/>
+            <head>305</head>
+            <p>Let States that aim at greatneſſe, beware leſt new gentry multiply too faſt, or grow too glorious: Where there is to great a diſproporti<g ref="char:EOLhyphen"/>on betwixt the Gentry and the common ſubject, the one grows inſolent, the other ſla<g ref="char:EOLhyphen"/>viſh: Where the body of the Gentry grows too glorious for the Corſlet, there the heads of the vulgar was too heavy for the Helmet.</p>
+         </div>
+         <div n="306" type="maxim">
+            <head>306</head>
+            <p>Upon the beleaguering of a City, let the Commander endeavour to take from the de<g ref="char:EOLhyphen"/>fendants all ſcruples which
+<pb n="162" facs="tcp:115018:89"/> may diſ-invite them to a ne<g ref="char:EOLhyphen"/>ceſſity of defence: Whom the fear of ſlavery neceſſitates to fight, the boldneſſe of their reſolution will diſadvantage the Aſſaylants, and deficilitate their deſign: Senſe of neceſſi<g ref="char:EOLhyphen"/>ty juſtifies the war, and they are hopefull in their arms, which have no other hope but in their arms.</p>
+         </div>
+         <div n="307" type="maxim">
+            <head>307</head>
+            <p>It is good for Princes and States (if they uſe ambitious men for their advantage) ſo to order things, that they be ſtill progreſſive, rather than retrograde. Where ambiti<g ref="char:EOLhyphen"/>ous natures find open paſsage,
+<pb n="163" facs="tcp:115018:89"/> they are rather buſie than dan<g ref="char:EOLhyphen"/>gerous; and if well watcht in their proceedings, they will catch themſelves in their own ſnare, and prepare a way to their own deſtruction.</p>
+         </div>
+         <div n="308" type="maxim">
+            <head>308</head>
+            <p>Expect the army of thy enemy, on plain and eaſie ground, and ſtill avoid moun<g ref="char:EOLhyphen"/>tainous and rocky places, and ſtrait paſsages, to the utmoſt of thy power: it is not ſafe to pitch any where, where thy whole forces cannot be brought together: he never deſerved the name of good Gameſter, that hazards his whole reſt upon leſs than the
+<pb n="164" facs="tcp:115018:90"/> ſtrength of his whole game.</p>
+         </div>
+         <div n="309" type="maxim">
+            <head>309</head>
+            <p>It matters not much whether in government, thou tread the ſteps of ſevere <hi>Hannibal,</hi> or gentle <hi>Scipio,</hi> ſo thy actions be honourable, and thy life virtu<g ref="char:EOLhyphen"/>ous: both in the one, and in the other, there is defect and danger, if not corrected and ſupported by the fair repute of ſome extraordinary en<g ref="char:EOLhyphen"/>dowments: no matter black or white ſo the Steed be good.</p>
+         </div>
+         <div n="310" type="maxim">
+            <head>310</head>
+            <p>It is not fit that any thing ſhould ſucceed well with the wicked, for it is a pu<g ref="char:EOLhyphen"/>niſhment
+<pb n="165" facs="tcp:115018:90"/> of his fault.</p>
+         </div>
+         <div n="311" type="maxim">
+            <head>311</head>
+            <p>As it is a principle of nature, that putrifaction is more con<g ref="char:EOLhyphen"/>tagious before maturity than after; ſo it is a poſition of Moral Philoſophie, that men abandoned to vice, do not ſo much corrupt manners, as thoſe that are half good and half evill.</p>
+         </div>
+         <div n="312" type="maxim">
+            <head>312</head>
+            <p>The end of mans Creation is not for the ſlaughter; nor edu<g ref="char:EOLhyphen"/>cation of Arms, to make men caſt-aways.</p>
+         </div>
+         <div n="313" type="maxim">
+            <head>313</head>
+            <p>Virtuous men will uſe their education military, as wiſe men do their weapons, for or<g ref="char:EOLhyphen"/>nament
+<pb n="166" facs="tcp:115018:91"/> amongſt their friends, againſt their enemies for de<g ref="char:EOLhyphen"/>fence.</p>
+         </div>
+         <div n="314" type="maxim">
+            <head>314.</head>
+            <p>Thoſe actions that are in<g ref="char:EOLhyphen"/>tended for opinion, are carried with more ceremony than or<g ref="char:EOLhyphen"/>dinary.</p>
+         </div>
+         <div n="315" type="maxim">
+            <head>315</head>
+            <p>
+               <hi>Dolus verſatur in generali<g ref="char:EOLhyphen"/>bus.</hi> Generals dwell too much in the ayre; therefore he that will not be deceived, muſt de<g ref="char:EOLhyphen"/>ſcend to particulars.</p>
+         </div>
+         <div n="316" type="maxim">
+            <head>316.</head>
+            <p>When <hi>Iupiter</hi> ſpeaks, he u<g ref="char:EOLhyphen"/>ſes to joyn thunder to it: ſo a King ſhould not ſpeak, except he maintain it by action.</p>
+         </div>
+         <div n="317" type="maxim">
+            <pb n="167" facs="tcp:115018:91"/>
+            <head>317</head>
+            <p>Chriſt recommends unto us the wiſdome of Serpents, not thereby to deceive or betray others, but to arm our ſelves againſt the deceit and treaſon of Hypocrites.</p>
+         </div>
+         <div n="318" type="maxim">
+            <head>318</head>
+            <p>There is a heaven and a hell, <hi>Praemium &amp; Paena,</hi> for the E<g ref="char:EOLhyphen"/>lect and the Reprobate: but how many other rooms there be, we are not on Gods Coun<g ref="char:EOLhyphen"/>cel.</p>
+         </div>
+         <div n="319" type="maxim">
+            <head>319</head>
+            <p>Prayer, is one of the wor<g ref="char:EOLhyphen"/>thieſt actions we do; for we ſpeak with God, and as it were enter in a reaſoning with him, it brings down God from hea<g ref="char:EOLhyphen"/>ven,
+<pb n="168" facs="tcp:115018:92"/> and makes him to grant our will, and dwell with us, and we with him Eternally.</p>
+         </div>
+         <div n="320" type="maxim">
+            <head>320</head>
+            <p>Of temporal goods, we ſhould pray onely for thoſe that are neceſſary for our be<g ref="char:EOLhyphen"/>ing, or at leaſt, wel-being; and not for thoſe things that are for Luxury and Superflu<g ref="char:EOLhyphen"/>ity; for ſuch are commonly baits to ſin: But if God grant us alſo theſe, we ſhould be thankfull, and ſoberly uſe them according to our calling.</p>
+         </div>
+         <div n="321" type="maxim">
+            <head>321</head>
+            <p>It was never found, that bloud and too much ſeverity,
+<pb n="169" facs="tcp:115018:92"/> did good in matters of Religi<g ref="char:EOLhyphen"/>on; God never loving to plant the Church by violence and bloud<g ref="char:punc">▪</g>ſhed.</p>
+         </div>
+         <div n="325" type="maxim">
+            <head>325</head>
+            <p>The whole Scripture chief<g ref="char:EOLhyphen"/>ly containeth two things, a Command, and a Prohibition; to do ſuch things, and to ab<g ref="char:EOLhyphen"/>ſtain from the contrary; it is our duty to obey in both.</p>
+         </div>
+         <div n="326" type="maxim">
+            <head>326</head>
+            <p>It becomes every Officer and Commander, to know what belongs to his place, and not to encroach upon his Su<g ref="char:EOLhyphen"/>periours; ſo ſhall good order be beſt kept in a great Fami<g ref="char:EOLhyphen"/>ly.</p>
+         </div>
+         <div n="327" type="maxim">
+            <pb n="170" facs="tcp:115018:93"/>
+            <head>327</head>
+            <p>It is the ſafeſt way in a martiall expedition, to com<g ref="char:EOLhyphen"/>mit the main charge to the hands of one: companions in Command begets confuſion in the Camp. When two able Commanders are join'd in e<g ref="char:EOLhyphen"/>quall Commiſſion, each is apt to think his own way beſt, and by mutuall thwarting each o<g ref="char:EOLhyphen"/>ther, both give opportunity to the enemy, and make deſtracti<g ref="char:EOLhyphen"/>on in the Army.</p>
+         </div>
+         <div n="328" type="maxim">
+            <head>328</head>
+            <p>Let that Captain who is appointed for the guard of an aſſaulted City, avoid as a Rock all manner of confuſion: when
+<pb n="171" facs="tcp:115018:93"/> a multitude takes arms with<g ref="char:EOLhyphen"/>out order, that City becomes ruinous, without redreſſe.</p>
+         </div>
+         <div n="329" type="maxim">
+            <head>329</head>
+            <p>If like <hi>Manlius</hi> thou com<g ref="char:EOLhyphen"/>mandeſt ſtout and great things be like <hi>Manlius</hi> ſtout to exe<g ref="char:EOLhyphen"/>cute thy great commands; it is a foul blemiſh in Sovereign<g ref="char:EOLhyphen"/>ty, when the will roars, and the power whiſpers: if thou canſt not execute as freely as thou commandeſt, command no more than what thou mayeſt as freely execute.</p>
+         </div>
+         <div n="330" type="maxim">
+            <head>330</head>
+            <p>If one party deſire to ob<g ref="char:EOLhyphen"/>tain any thing of the other, be<g ref="char:EOLhyphen"/>ing in a mutuall difference,
+<pb n="172" facs="tcp:115018:94"/> let him (if occaſion will bear it) give him no time to ad<g ref="char:EOLhyphen"/>viſe himſelf: Let him endea<g ref="char:EOLhyphen"/>vour to make him ſee a neceſ<g ref="char:EOLhyphen"/>ſity of ſudden reſolution, and the danger of either deniall or delay: he that gives time to re<g ref="char:EOLhyphen"/>ſolve, teaches to deny, and gives warning to prepare.</p>
+         </div>
+         <div n="331" type="maxim">
+            <head>331</head>
+            <p>Let not the Army at the firſt encounter, be too prodi<g ref="char:EOLhyphen"/>gall in her Aſſaults, but hus<g ref="char:EOLhyphen"/>band her ſtrength for a dead lift: When the enemy hath abated the fury of his firſt heat, let him then feel, thou haſt reſerved thy forces for the laſt blow: So ſhall the ho<g ref="char:EOLhyphen"/>nour
+<pb n="173" facs="tcp:115018:94"/> he hath gained by his va<g ref="char:EOLhyphen"/>lour be turned to thy uſe, and encreaſe the glory of thy va<g ref="char:EOLhyphen"/>lour. Foregames when they prove, are ſpeedieſt; but After games if wiſely plaid are ſu<g ref="char:EOLhyphen"/>reſt.</p>
+         </div>
+         <div n="332" type="maxim">
+            <head>332</head>
+            <p>It is very requiſite for a well adviſed Republick to caſt a ſtrict and ſerious eye upon thoſe that ſeek favour by thy ſervice: ſome ſeek it in a publick way, ſome in a private: The firſt brings honour to a Republick and ought to re<g ref="char:EOLhyphen"/>ceive encouragement: The ſe<g ref="char:EOLhyphen"/>cond is very pernicious, and dangerous, and ought to be re<g ref="char:EOLhyphen"/>warded
+<pb n="174" facs="tcp:115018:95"/> with ſevere puniſh<g ref="char:EOLhyphen"/>ment: that brings forth glory and emulation; this populari<g ref="char:EOLhyphen"/>ty, and faction, (and if not pu<g ref="char:EOLhyphen"/>niſht) ruine.</p>
+         </div>
+         <div n="333" type="maxim">
+            <head>333</head>
+            <p>Let not the covetouſneſſe of a Captain purloin to his own uſe, or any way bereave the ſouldiers of any profit due unto their ſervices, either in their means or ſpoils. Such injuries (being quickned by their daily neceſſities) are ne<g ref="char:EOLhyphen"/>ver forgot: What ſouldiers earn with the hazard of their lives (if not enjoy'd) prophe<g ref="char:EOLhyphen"/>ſies an overthrow in the next battell.</p>
+         </div>
+         <div n="334" type="maxim">
+            <pb n="175" facs="tcp:115018:95"/>
+            <head>334</head>
+            <p>If a Prince would have virtuous ſubjects, let his ſub<g ref="char:EOLhyphen"/>jects have a virtuous Prince: ſo ſhall he better puniſh the vices of his people; ſo ſhall they trulier prize virtue, and folow it, being exemplified in their Prince.</p>
+         </div>
+         <div n="235" type="maxim">
+            <head>235</head>
+            <p>It is the part of a wiſe Commander, to caſt an eye ra<g ref="char:EOLhyphen"/>ther upon the actions, than the Perſons, and rather to read men in their merits, than in Ladies letters: he that for favor or for baſe reward prefers a ſouldier, betrays his King<g ref="char:EOLhyphen"/>dom for a bribe, or ſels his
+<pb n="176" facs="tcp:115018:96"/> honour for a kiſſe.</p>
+         </div>
+         <div n="336" type="maxim">
+            <head>336</head>
+            <p>Where order and fury are well acquainted the war proſ<g ref="char:EOLhyphen"/>pers, and the ſouldiers end no leſſe men than they begun: order takes ſpirit of fury, and fury takes rules of order: but where order is wanting fury runs mad; and when fury is wanting order lies dead: in the abſence of order fury runs her own way; and being an unthrift of her own ſtrength, fails in the firſt Aſſault, and cravens: and ſuch, beginning more than men, end leſſe than women.</p>
+         </div>
+         <div n="337" type="maxim">
+            <head>337</head>
+            <p>It is the quality of a wiſe
+<pb n="177" facs="tcp:115018:96"/> Commander, to make his ſouldiers confident in his wiſ<g ref="char:EOLhyphen"/>dome, and their own ſtrength: if any danger be to conceal it; if manifeſt, to leſsen it: let him poſseſs his Army with the juſtneſs of the war, and a certainty of the victory: a good cauſe makes a ſtout heart, and a ſtrong Arm; they that fear an overthrow are half conquered.</p>
+         </div>
+         <div n="338" type="maxim">
+            <head>338</head>
+            <p>It is requiſite for a General to mingle love with the ſeveri<g ref="char:EOLhyphen"/>ty of his diſcipline: they that cannot be induced to fear for love, will never be forced to love for fear: love opens
+<pb n="178" facs="tcp:115018:97"/> the heart; fear ſhuts it: that encourages; this compels: And victory meets encou<g ref="char:EOLhyphen"/>ragement, but flees compulſi<g ref="char:EOLhyphen"/>on.</p>
+         </div>
+         <div n="339" type="maxim">
+            <head>339</head>
+            <p>In two degrees ſtandeth the whole ſervice of God by man, interiour upward by prayer, exteriour or down<g ref="char:EOLhyphen"/>ward by works flowing there from, before the world.</p>
+         </div>
+         <div n="340" type="maxim">
+            <head>340</head>
+            <p>He that nouriſheth a facti<g ref="char:EOLhyphen"/>on between his ſervants in his own family, doth nothing elſe but help to ſet his own houſe on fire.</p>
+         </div>
+         <div n="341" type="maxim">
+            <pb n="179" facs="tcp:115018:97"/>
+            <head>341</head>
+            <p>Although we are not ſtocks nor ſtones not to feel calami<g ref="char:EOLhyphen"/>ties, yet we ſhould not ſuffer the feeling of them, ſo to over<g ref="char:EOLhyphen"/>rule and aſtoniſh our reaſon, as it may ſtay us from taking the beſt reſolution, and uſing thereof, for remedy that can be found out.</p>
+         </div>
+         <div n="342" type="maxim">
+            <head>342</head>
+            <p>Age is venerable, not in reſpect of the apparence, but in reſpect of the annexion; be<g ref="char:EOLhyphen"/>cauſe wiſedome commonly accompanies ſuch a pre<g ref="char:EOLhyphen"/>ſence.</p>
+         </div>
+         <div n="343" type="maxim">
+            <head>343</head>
+            <p>The Devils are like the
+<pb n="180" facs="tcp:115018:98"/> Peſt which ſmites thoſe ſureſt, which flies it furtheſt, and ap<g ref="char:EOLhyphen"/>prehends deeplieſt the perill thereof.</p>
+         </div>
+         <div n="343" type="maxim">
+            <head>343</head>
+            <p>
+               <hi>Alexander</hi> was not thank<g ref="char:EOLhyphen"/>ed and commended for con<g ref="char:EOLhyphen"/>quering the world, but for doing it before thirty years old.</p>
+         </div>
+         <div n="344" type="maxim">
+            <head>344</head>
+            <p>It is the greateſt decay to youth, either not to indure good advice, or not to believe it, untill their perill and over<g ref="char:EOLhyphen"/>throw make them ſee it to their ſhame.</p>
+         </div>
+         <div n="345" type="maxim">
+            <head>345</head>
+            <p>It is no power inherent in
+<pb n="181" facs="tcp:115018:98"/> the Circles, or in the holineſs of names of God uſed blaſ<g ref="char:EOLhyphen"/>phemouſly, nor in whatſoever rites or ceremonies, that either can raiſe any infernall ſpirit, or limit him perforce within or without ſuch and ſuch Cir<g ref="char:EOLhyphen"/>cles; but it is the craft of the Devill, the father of lies, who having firſt of all preſcribed that form of doing, feigning himſelf to be commanded and reſtrained thereby, will be loath to paſs the bounds of thoſe injunctions.</p>
+         </div>
+         <div n="346" type="maxim">
+            <head>346</head>
+            <p>Continual experience proves that idleneſs is ever the grea<g ref="char:EOLhyphen"/>teſt ſpur to Lechery.</p>
+         </div>
+         <div n="347" type="maxim">
+            <pb n="158" facs="tcp:115018:99"/>
+            <head>347</head>
+            <p>Man being compounded of all the four complexions, whoſe father are the elements, although there be a mixture of them all in all the parts of the body, yet muſt divers parts of this Microcoſm or little world of ours, be diverſ<g ref="char:EOLhyphen"/>ly more inclined, ſome to one ſome to another complexion, according to the diverſity of their uſe: that of thoſe diſcords a perfect harmony may be made up, for the maintenance of the whole body.</p>
+         </div>
+         <div n="348" type="maxim">
+            <head>348</head>
+            <p>It is a thankleſſe and a dan<g ref="char:EOLhyphen"/>gerous office, to make an a<g ref="char:EOLhyphen"/>ward
+<pb n="183" facs="tcp:115018:99"/> betwixt two differing States, wherein as thou ſhalt ſeldome content above one party, ſo thou ſhalt often diſpleaſe both: it is a bad ſervice; wherein whileſt thou endeavoureſt to make two friends, between themſelves, thou gaineſt two enemies to thy ſelf.</p>
+         </div>
+         <div n="349" type="maxim">
+            <head>349</head>
+            <p>It is more dangerous for a Prince to be diſdained by his ſubjects than to be hated: hatred admits fear, and fear forces loyalty. But diſdain excludes both love and fear, and conſequently diſſolves o<g ref="char:EOLhyphen"/>bedience. That Prince that is hated, is in his high road to
+<pb n="184" facs="tcp:115018:100"/> ruin; and he that is diſdained is at his journeys end.</p>
+         </div>
+         <div n="350" type="maxim">
+            <head>350</head>
+            <p>There be three ſorts of Government, Monarchicall, Ariſtocraticall, Democrati<g ref="char:EOLhyphen"/>call: And they are apt to fall three ſeverall ways into ruine; the firſt by Tyranny; the ſecond by Ambition; the laſt by tumult. A Common<g ref="char:EOLhyphen"/>wealth grounded upon any of theſe, is but of ſhort con<g ref="char:EOLhyphen"/>tinuance; but being wiſely mingled, either guard the other and makes the government exact.</p>
+         </div>
+         <div n="351" type="maxim">
+            <head>351</head>
+            <p>Before thou undertake a
+<pb n="185" facs="tcp:115018:100"/> war let thine eye number thy forces, and let thy judgement weigh them: if thou haſt a rich enemy no matter how poor thy ſouldiers be, if cou<g ref="char:EOLhyphen"/>ragious and faithfull. Truſt not too mch to the power of thy treaſure, for it will deceive thee, being more apt to expoſe thee for a Prey, than defend thee. Gold is not able to make good ſouldiers, but good ſouldiers are able to find out gold.</p>
+         </div>
+         <div n="352" type="maxim">
+            <head>352</head>
+            <p>If the Territories of thy equall enemy are ſcituated far ſouth from thee, the advantage is thine, whether he make
+<pb n="186" facs="tcp:115018:101"/> offenſive or defenſive war; if North the advantage is his. Cold is leſſe tollerable than heat. This is a friend to na<g ref="char:EOLhyphen"/>ture, that an enemie.</p>
+         </div>
+         <div n="353" type="maxim">
+            <head>353</head>
+            <p>It is not onely uncivill but dangerous for ſouldiers, by reproachfull words, to throw diſgrace upon an ene<g ref="char:EOLhyphen"/>my: Baſe terms are bellows to a ſlaking fury, and goads to quicken up revenge in a fleeing foe: he that objects a Cowardice againſt a failing enemy, adds ſpirit to him to diſprove the aſperſion at his own coſt: it is therefore the part of a wiſe ſouldier to re<g ref="char:EOLhyphen"/>frain
+<pb n="187" facs="tcp:115018:101"/> it, or of a wiſe Com<g ref="char:EOLhyphen"/>mander to reprove it.</p>
+         </div>
+         <div n="354" type="maxim">
+            <head>354</head>
+            <p>Let that Commander, which deſires to give a fair Ac<g ref="char:EOLhyphen"/>compt, be very ſtrict both in puniſhments and rewards, and proportion them according to the merits of the deſerver, and the fault of the delinquent: let the ſervice of the one be duely rewarded, leſt thou diſcourage worth, and the demerits of the other ſtrictly puniſhed, leſt thou encourage vice: the neglect of the one weakens an army; the omiſſion of both ruines it.</p>
+         </div>
+         <div n="355" type="maxim">
+            <pb n="188" facs="tcp:115018:102"/>
+            <head>355</head>
+            <p>If tbou deſire to know the power of a State, obſerve in what correſpondence it lives with her neighbours. If it make alliance with the contri<g ref="char:EOLhyphen"/>bution of money, it is an evi<g ref="char:EOLhyphen"/>dent ſign of weakneſſe; if with her valor, or repute of forces, it manifeſts a native ſtrength: it is an infallible ſign of pow<g ref="char:EOLhyphen"/>er to ſell friendſhip; and of weakneſſe to buy it. That which is bought with gold, will hardly be maintained with ſteel.</p>
+         </div>
+         <div n="356" type="maxim">
+            <head>356</head>
+            <p>If thy two neighbouring Princes be at variance, ſhew
+<pb n="189" facs="tcp:115018:102"/> thy ſelf either a true friend or a fair enemy; it is indiſcreti<g ref="char:EOLhyphen"/>on to adhere to him, whom thou haſt leaſt cauſe to fear if he vanquiſh: Neutrality is dangerous whereby thou be<g ref="char:EOLhyphen"/>comeſt a neceſſary Prey to the Conquerour.</p>
+         </div>
+         <div n="35" type="maxim">
+            <head>35</head>
+            <p>It is a greater argument of a Princes wiſedome, not onely to chuſe, but alſo to prefer wiſe Counſellors: and ſuch are they, that ſeek leſſe their own advantages than his; whom wiſe Princes ought to reward, leſt they become their own carvers, and ſo of good ſer<g ref="char:EOLhyphen"/>vants become bad Maſters.</p>
+         </div>
+         <div n="358" type="maxim">
+            <pb n="190" facs="tcp:115018:103"/>
+            <head>358</head>
+            <p>It is very dangerous to try experiment in a State, unleſſe extream neceſſity be urgent, or popular utility be palpable. It is better for a State to con<g ref="char:EOLhyphen"/>nive a while at an inconveni<g ref="char:EOLhyphen"/>ence, than too ſuddenly to ruſh upon a reformation.</p>
+         </div>
+         <div n="359" type="maxim">
+            <head>359</head>
+            <p>If a valiant Prince be ſuc<g ref="char:EOLhyphen"/>ceeded by a weak ſucceſſour, he may for a while maintain a happy State, by the remaining virtue of his glorious prede<g ref="char:EOLhyphen"/>ceſſour: but if his life be long, or dying, he be ſucceeded by one leſſe valiant then the firſt, his Kingdome is very likely to
+<pb n="191" facs="tcp:115018:103"/> fall to ruine. That Prince is a true father to his Country that leaves it the rich inheritance of a brave ſon. When <hi>Alexander</hi> ſucceeded <hi>Philip,</hi> the world was too little for the Con<g ref="char:EOLhyphen"/>querour.</p>
+         </div>
+         <div n="360" type="maxim">
+            <head>360</head>
+            <p>It is very dangerous for a Prince or Republick, to make continuall practiſe of cruell exaction; where the ſubject ſtands in the ſenſe or expecta<g ref="char:EOLhyphen"/>tion of evill, he is apt to pro<g ref="char:EOLhyphen"/>vide either for his ſafety, either from the evill he feels or from the danger he fears, and grow<g ref="char:EOLhyphen"/>ing bold in conſpiracy makes faction, which faction is the
+<pb n="192" facs="tcp:115018:104"/> mother of ruine.</p>
+         </div>
+         <div n="361" type="maxim">
+            <head>361</head>
+            <p>That Prince who ſtands in fear more of his own people then of ſtrangers, ought to build fortreſſes in his land. But he that is more afraid of ſtrangers than his own ſubjects ſhall build them more ſecure<g ref="char:EOLhyphen"/>ly in the affections of his peo<g ref="char:EOLhyphen"/>ple.</p>
+         </div>
+         <div n="362" type="maxim">
+            <head>362</head>
+            <p>Carry a watchfull eye upon dangers till the come to ripeneſſe, and when they are ripe let looſe a ſpeedy hand: he that expects them too long meets them too late; and he that meets them too ſoon-gives advantage to the evill.
+<pb n="193" facs="tcp:115018:104"/> Commit their beginning to <hi>Argus</hi> his eyes, and their ends to <hi>Briareus</hi> his hands, and thou art ſafe.</p>
+         </div>
+         <div n="363" type="maxim">
+            <head>363</head>
+            <p>Of all difficulties in a State, the temper of true go<g ref="char:EOLhyphen"/>vernment moſt felicifies and perpetuates it. Too ſudden al<g ref="char:EOLhyphen"/>terations diſtempers it; too contrary deſtroys it. Had <hi>Nero</hi> turned his Kingdome as he did his Harp, his harmony had been more honourable, and his reign more proſpe<g ref="char:EOLhyphen"/>rous.</p>
+         </div>
+         <div n="364" type="maxim">
+            <head>364</head>
+            <p>If a Prince fearing to be aſſailed by a forreign enemy, hath a well armed people, and
+<pb n="194" facs="tcp:115018:105"/> well addreſt for war, let him ſtay at home, and expect him there. But if his ſubjects be unarmed, or his Kingdome unacquainted with the ſtroke of war, let him meet the ene<g ref="char:EOLhyphen"/>my in his quarters: the fur<g ref="char:EOLhyphen"/>ther he keeps the war from his own home the leſſe danger.</p>
+         </div>
+         <div n="365" type="maxim">
+            <head>365</head>
+            <p>It is great prudence in a States-man to diſcover an in<g ref="char:EOLhyphen"/>convenience in the birth; which, ſo diſcovered, is eaſie to be ſuppreſt. But if it ri<g ref="char:EOLhyphen"/>pen into cuſtome, the ſudden remedy is worſe than the diſeaſe: in ſuch a caſe better to temporize a little, than
+<pb n="195" facs="tcp:115018:105"/> ſtruggle too much. He that oppoſes a full-aged inconveni<g ref="char:EOLhyphen"/>ence too ſuddenly, ſtrengthens it.</p>
+         </div>
+         <div n="366" type="maxim">
+            <head>366</head>
+            <p>Let a Prince preſerve him<g ref="char:EOLhyphen"/>ſelf in the favor of the people, more than the great-ones: they are many; theſe but few: theſe cannot be ſatisfied upon eaſie terms; whereas they are content with ſmall mat<g ref="char:EOLhyphen"/>ters. Moreover, the Prince is neceſſitated to live always with the ſame people, but may do well enough with the ſame Great-ones: tumults in a State, are more dangerous than ambition.</p>
+         </div>
+         <div n="367" type="maxim">
+            <pb n="196" facs="tcp:115018:106"/>
+            <head>367</head>
+            <p>If thou endeavoureſt to make a Republick in a Nation where the Gentry abounds, thou ſhalt hardly proſper in that deſign: and if thou would<g ref="char:EOLhyphen"/>eſt erect a Principallity in a land where there is much e<g ref="char:EOLhyphen"/>quallity of people, thou ſhalt not eaſily effect it: the way to bring the firſt to paſſe, is to weaken the Gentry; the means to effect the laſt, is to advance and ſtrengthen turbu<g ref="char:EOLhyphen"/>lent and ambitious ſpirits: ſo that being placed in the midſt of them, their forces may maintain thy power, and thy favour may prefer their ambi<g ref="char:EOLhyphen"/>tion: otherwiſe there ſhall be
+<pb n="197" facs="tcp:115018:106"/> neither proportion nor conti<g ref="char:EOLhyphen"/>nuance.</p>
+         </div>
+         <div n="368" type="maxim">
+            <head>368</head>
+            <p>It is more excellent in a Prince to have a provident eye for the preventing future miſchiefs, than to have a po<g ref="char:EOLhyphen"/>tent arm for the ſuppreſſing of preſent evils: Miſchiefs in a State are like Hectick fea<g ref="char:EOLhyphen"/>vers in a body naturall; in the beginning hard to be known, but eaſily to be cured: but being let alone a while, more eaſie to be known, but harder to be cured.</p>
+         </div>
+         <div n="369" type="maxim">
+            <head>369</head>
+            <p>If a Kingdome be apt to rebellion, it is wiſdome to pre<g ref="char:EOLhyphen"/>ſerve the Nobility and Com<g ref="char:EOLhyphen"/>monalty
+<pb n="198" facs="tcp:115018:107"/> ſtill at variance. Where one of them is diſ<g ref="char:EOLhyphen"/>contented the matter is not great; the Commons are flow of motion if not quick<g ref="char:EOLhyphen"/>ned by the Nobility: the No<g ref="char:EOLhyphen"/>bility weak in power if not ſtrengthned by the Commons: then is danger, when the Commonalty troubles the wa<g ref="char:EOLhyphen"/>ter, and the Nobility ſteps in.</p>
+         </div>
+         <div n="370" type="maxim">
+            <head>370</head>
+            <p>He is ſaid rightly to ſerve his Country whoſe body exe<g ref="char:EOLhyphen"/>cuteth what his wiſdome plot<g ref="char:EOLhyphen"/>teth.</p>
+         </div>
+         <div n="371" type="maxim">
+            <head>371</head>
+            <p>Common affability is com<g ref="char:EOLhyphen"/>mendable and not to be miſli<g ref="char:EOLhyphen"/>ked, ſo it reſerve the ſtate of
+<pb n="199" facs="tcp:115018:107"/> the party; otherwiſe it is not humility but baſeneſſe.</p>
+         </div>
+         <div n="372" type="maxim">
+            <head>372</head>
+            <p>Sauces, are more like medicines than meat, and they ſerve onely for the pleaſing of the taſte: and not for ſatisfying of the neceſſity of nature.</p>
+         </div>
+         <div n="373" type="maxim">
+            <head>373</head>
+            <p>We ow all men ſalutation and a cap, but not familiarity; for except we be ſure their worthineſſe deſerves it, we be<g ref="char:EOLhyphen"/>tray our ſelves.</p>
+         </div>
+         <div n="374" type="maxim">
+            <head>374</head>
+            <p>Whatſoever God doth by a <hi>Medium,</hi> muſt know an end, what immediately belongs to eternity.</p>
+         </div>
+         <div n="375" type="maxim">
+            <pb n="200" facs="tcp:115018:108"/>
+            <head>375</head>
+            <p>The Slanderer and he that de<g ref="char:EOLhyphen"/>fires to hear lies, are whelps of a litter; the one hath a Devil in his tongue, and the other in his ears.</p>
+         </div>
+         <div n="376" type="maxim">
+            <head>376</head>
+            <p>Fortune hath no power o<g ref="char:EOLhyphen"/>ver wiſedome, but of ſenſuali<g ref="char:EOLhyphen"/>ty, and of lives that ſwim and navigate without the loadſtone of diſcretion and judgement.</p>
+         </div>
+         <div n="377" type="maxim">
+            <head>377</head>
+            <p>The diſpoſition of wicked men are perverſe, Coaction muſt force them to goodneſſe, and correction reſtrain them from wickedneſs.</p>
+         </div>
+         <div n="378" type="maxim">
+            <head>378</head>
+            <p>Mans happineſſe doth reſt in the managing of his own time,
+<pb n="201" facs="tcp:115018:108"/> ſo that every man may be bleſt and rich in perfection, if his own diſſoluteneſſe, and un<g ref="char:EOLhyphen"/>thriftineſſe incurs not the contrary.</p>
+         </div>
+         <div n="379" type="maxim">
+            <head>379</head>
+            <p>All qualities without the di<g ref="char:EOLhyphen"/>rection of virtue, profit not, but overthrow their poſ<g ref="char:EOLhyphen"/>ſeſſours.</p>
+         </div>
+         <div n="380" type="maxim">
+            <head>380</head>
+            <p>When the mouth of <hi>Lazarus</hi> was ſhut his ſoars ſpoke for him; ſo when we cannot uſe our hands in defence of our Country, we ſhould lift them up for our Princes protection.</p>
+         </div>
+         <div n="381" type="maxim">
+            <head>381</head>
+            <p>If he be to be pittied, that be<g ref="char:EOLhyphen"/>ſtows half his patrimony in
+<pb n="202" facs="tcp:115018:109"/> hobbi-horſes, then much more they, who having but a little time dedicate half to ſleep and idleneſſe.</p>
+         </div>
+         <div n="382" type="maxim">
+            <head>382</head>
+            <p>As troubles come for exer<g ref="char:EOLhyphen"/>ciſe of virtue and encreaſe of merit, ſo affliction ſends many to prayer and faſting, and few men ſeldom do well, except ne<g ref="char:EOLhyphen"/>ceſſity inforce them; for hun<g ref="char:EOLhyphen"/>ger and poverty makes men in<g ref="char:EOLhyphen"/>duſtrious, and the laws make them good.</p>
+         </div>
+         <div n="383" type="maxim">
+            <head>383</head>
+            <p>As the ſervants of God are known by humility and chari<g ref="char:EOLhyphen"/>ty, ſo the ſervants of the divel are known by pride and cruel<g ref="char:EOLhyphen"/>tie.</p>
+         </div>
+         <div n="384" type="maxim">
+            <pb n="203" facs="tcp:115018:109"/>
+            <head>384</head>
+            <p>The confeſſion of our ſins do no leſſe honour God, than his glory is blemiſhed by Com<g ref="char:EOLhyphen"/>miſſion.</p>
+         </div>
+         <div n="385" type="maxim">
+            <head>385</head>
+            <p>Suſpicion is no where ſo converſant and powerful as a<g ref="char:EOLhyphen"/>mo<g ref="char:cmbAbbrStroke">̄</g>g Princes, unto whom, to ſay rightly, it rightly belongs: For howſoever they are they have enemies; if good, envious; if evil ſome that lay hold upon that occaſion; yea, even their friends are doubtfull, not being eaſie to be diſcerned, whether lovers of themſelves or of their for<g ref="char:EOLhyphen"/>tunes.</p>
+         </div>
+         <div n="386" type="maxim">
+            <head>386</head>
+            <p>To pray to the Lord with the lips for any corporall benefit,
+<pb n="204" facs="tcp:115018:110"/> and yet to have the heart fixed in confidence of any naturall means, is a kind of ſpirituall adultery.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:115018:110"/>
+         </div>
+      </body>
+   </text>
+</TEI>
